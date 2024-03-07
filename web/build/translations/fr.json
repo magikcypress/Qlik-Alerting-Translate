@@ -1,0 +1,2445 @@
+{
+  "About.Link.Qlik": {
+    "value": "https://www.qlik.com/",
+    "comment": "Lien vers le site web de Qlik"
+  },
+  "Admin.Dropdown.Admin": {
+    "value": "Admin",
+    "comment": "Élément d'en-tête du menu déroulant Admin"
+  },
+  "Admin.MenuItem.Channels": {
+    "value": "Canaux",
+    "comment": "Élément de menu dans le menu déroulant Admin"
+  },
+  "Admin.MenuItem.Config": {
+    "value": "Configuration",
+    "comment": "Élément de menu dans le menu déroulant Admin"
+  },
+  "Admin.MenuItem.Sources": {
+    "value": "Sources",
+    "comment": "Élément de menu dans le menu déroulant Admin"
+  },
+  "Admin.MenuItem.UserManagement": {
+    "value": "Gestion des utilisateurs",
+    "comment": "Élément de menu dans le menu déroulant Admin"
+  },
+  "About.Button.About": {
+    "value": "À propos",
+    "comment": "Texte du bouton pour changer le corps de la page à propos"
+  },
+  "About.Button.LicensePDF": {
+    "value": "Télécharger la licence en PDF",
+    "comment": "Texte du bouton pour télécharger en PDF"
+  },
+  "About.Button.ThirdParty": {
+    "value": "Logiciels tiers",
+    "comment": "Texte du bouton pour changer le corps de la page à Logiciels Tiers"
+  },
+  "About.Link.Help": {
+    "value": "https://help.qlik.com/fr-FR/alerting/November2020",
+    "comment": "Texte du lien d'aide pour que l'utilisateur accède au site d'aide"
+  },
+  "About.Text.CompanyDetails": {
+    "value": "© 1993-2020 QlikTech International AB",
+    "comment": "Nom de l'entreprise et dates"
+  },
+  "About.Text.Help": {
+    "value": "Pour obtenir de l'aide, rendez-vous sur ",
+    "comment": "Texte pour introduire le lien d'aide"
+  },
+  "About.Text.QlikAlertingRelease": {
+    "value": "Qlik Alerting novembre 2020",
+    "comment": "Texte dans la page À propos"
+  },
+  "About.Text.ThirdPartyTitle": {
+    "value": "Logiciels tiers",
+    "comment": "Titre des logiciels tiers"
+  },
+  "About.Text.ThirdParty": {
+    "value": "La liste suivante montre tous les logiciels tiers et licences utilisés dans Qlik Alerting. Tous sont des éléments essentiels de Qlik Alerting.",
+    "comment": "Contenu des logiciels tiers"
+  },
+  "About.Text.Version": {
+    "value": "Numéro de version : 1.3.0",
+    "comment": "Texte dans la page À propos"
+  },
+  "Alerts.Button.Create": {
+    "value": "Créer nouveau",
+    "comment": "Étiquette du bouton pour créer un nouvel en-tête de tableau d'alerte dans la page des alertes"
+  },
+  "Alerts.Dropdown.MyAlerts": {
+    "value": "Mes alertes",
+    "comment": "Étiquette pour l'option de menu déroulant dans l'en-tête du tableau dans la page des alertes"
+  },
+  "Alerts.Dropdown.AllAlerts": {
+    "value": "Toutes les alertes",
+    "comment": "Étiquette pour l'option de menu déroulant dans l'en-tête du tableau dans la page des alertes"
+  },
+  "Alerts.Label.AllAlerts": {
+    "value": "Toutes les alertes",
+    "comment": "Texte radio dans les alertes"
+  },
+  "Alerts.Label.Application": {
+    "value": "Application",
+    "comment": "En-tête de colonne dans les alertes"
+  },
+  "Alerts.Label.BroadcastNotification": {
+    "value": "Notification de diffusion",
+    "comment": "Onglet dans les alertes"
+  },
+  "Alerts.Label.UpdatedAt": {
+    "value": "Mis à jour",
+    "comment": "En-tête de colonne dans les alertes"
+  },
+  "Alerts.Label.DataAlerts": {
+    "value": "Alertes de données",
+    "comment": "Onglet dans les alertes"
+  },
+  "Alerts.Label.Description": {
+    "value": "Description",
+    "comment": "En-tête de colonne dans les alertes"
+  },
+  "Alerts.Label.Enabled": {
+    "value": "Activé",
+    "comment": "En-tête de colonne dans les alertes"
+  },
+  "Alerts.Label.MyAlerts": {
+    "value": "Mes alertes",
+    "comment": "Texte radio dans les alertes"
+  },
+  "Alerts.Label.Name": {
+    "value": "Nom",
+    "comment": "En-tête de colonne dans les alertes"
+  },
+  "AlertsDetails.DataHandler.Aborted": {
+    "value":"Abandonné",
+    "comment": "Valeur abandonnée pour la dernière"
+  },
+  "AlertsDetails.DataHandler.Application": {
+    "value":"L'application est requise",
+    "comment": "Avertissement en l'absence d'application"
+  },
+  "AlertsDetails.DataHandler.AppReload": {
+    "value":"Rechargement de l'application",
+    "comment": "Valeur de rechargement d'application pour le type"
+  },
+  "AlertsDetails.DataHandler.AlertName": {
+    "value":"Le nom de l'alerte est requis",
+    "comment": "Avertissement en l'absence de nom d'alerte"
+  },
+  "AlertsDetails.DataHandler.Channel": {
+    "value":"Au moins un canal est requis",
+    "comment": "Avertissement en l'absence de canaux"
+  },
+  "AlertsDetails.DataHandler.Column": {
+    "value":"Au moins une colonne est requise",
+    "comment": "Avertissement en l'absence de colonnes"
+  },
+  "AlertsDetails.DataHandler.Condition": {
+    "value":"Au moins une condition est requise",
+    "comment": "Avertissement en l'absence de conditions"
+  },
+  "AlertsDetails.DataHandler.ConditionRule": {
+    "value":"Au moins une règle de condition est requise",
+    "comment": "Avertissement en l'absence de règle de condition"
+  },
+  "AlertsDetails.DataHandler.EventType": {
+    "value":"Au moins un type d'événement est requis",
+    "comment": "Avertissement en l'absence de type d'événement"
+  },
+  "AlertsDetails.DataHandler.Failed": {
+    "value":"Échoué",
+    "comment": "Valeur échouée pour la dernière"
+  },
+  "AlertsDetails.DataHandler.InProgress": {
+    "value":"En cours",
+    "comment": "Valeur En cours pour la dernière"
+  },
+  "AlertsDetails.DataHandler.Interval": {
+    "value":"Intervalle",
+    "comment": "Valeur d'intervalle pour le type"
+  },
+  "AlertsDetails.DataHandler.MySheets": {
+    "value":"Mes feuilles",
+    "comment": "Valeur Mes feuilles pour chaque état"
+  },
+  "AlertsDetails.DataHandler.NeverStarted": {
+    "value": "Jamais démarré",
+    "comment": "Valeur Jamais démarré pour la dernière"
+  },
+  "AlertsDetails.DataHandler.NotificationSubject": {
+    "value": "Le sujet de la notification est requis",
+    "comment": "Avertissement en l'absence de sujet de notification"
+  },
+  "AlertsDetails.DataHandler.NotificaitonBody": {
+    "value": "Le corps de la notification est requis",
+    "comment": "Avertissement en l'absence de corps de notification"
+  },
+  "AlertsDetails.DataHandler.Other": {
+    "value": "Autre",
+    "comment": "Valeur Autre pour le type"
+  },
+  "AlertsDetails.DataHandler.ProgressValue": {
+    "value": "La valeur minimale en cours est de 30 secondes",
+    "comment": "Avertissement pour la valeur minimale en cours"
+  },
+  "AlertsDetails.DataHandler.Public": {
+    "value": "Public",
+    "comment": "Valeur Public pour chaque état"
+  },
+  "AlertsDetails.DataHandler.Shared": {
+    "value": "Partagé",
+    "comment": "Valeur Partagé pour chaque état"
+  },
+  "AlertsDetails.DataHandler.Sheet": {
+    "value": "La feuille est requise",
+    "comment": "Avertissement en l'absence de feuille"
+  },
+  "AlertsDetails.DataHandler.SomeConditions": {
+    "value": "Certaines conditions ne sont pas valides",
+    "comment": "Avertissement pour des conditions invalides"
+  },
+  "AlertsDetails.DataHandler.Success": {
+    "value": "Succès",
+    "comment": "Valeur Succès pour la dernière"
+  },
+  "AlertsDetails.DataHandler.SystemAborted": {
+    "value": "Système abandonné",
+    "comment": "Valeur système abandonné pour la dernière"
+  },
+  "AlertsDetails.DataHandler.Task": {
+    "value": "Au moins une tâche est requise",
+    "comment": "Avertissement en l'absence de tâche"
+  },
+  "AlertsDetails.DataHandler.Time": {
+    "value": "Temps",
+    "comment": "Valeur de temps pour le type"
+  },
+  "AlertsDetails.DataHandler.Unknown": {
+    "value": "Inconnu",
+    "comment": "Valeur inconnue pour la dernière"
+  },
+  "AlertsDetails.Label.Optional": {
+    "value": "(optionnel)",
+    "comment": "Étiquette pour indiquer un champ facultatif"
+  },
+  "Alerts.Label.Owner": {
+    "value": "Propriétaire",
+    "comment": "En-tête de colonne dans les alertes"
+  },
+  "Alerts.Label.SystemAlerts": {
+    "value": "Alertes système",
+    "comment": "Onglet dans les alertes"
+  },
+  "Alerts.Modal.DeleteContent": {
+    "value": "Êtes-vous sûr de vouloir supprimer ?",
+    "comment": "Avertissement modal avant la suppression du contenu"
+  },
+  "Alerts.Modal.DuplicateContent": {
+    "value": "Êtes-vous sûr de vouloir dupliquer ?",
+    "content": "Avertissement modal avant la duplication du contenu"
+  },
+  "Alerts.Modal.TriggerContent": {
+    "value": "Êtes-vous sûr de vouloir déclencher les alertes sélectionnées ? AVERTISSEMENT : Les alertes désactivées ne seront pas déclenchées.",
+    "content": "Avertissement modal avant le déclenchement du contenu"
+  },
+  "AlertsDetails.Label.General": {
+    "value": "Général",
+    "comment": "Étiquette pour la section Général des détails de l'alerte"
+  },
+  "AlertsDetails.Label.Email": {
+    "value":"E-mail",
+    "comment": "Valeur E-mail pour les canaux"
+  },
+  "AlertsDetails.Label.Mobile": {
+    "value":"Mobile",
+    "comment": "Valeur Mobile pour les canaux"
+  },
+  "AlertsDetails.Label.Aggregation": {
+    "value": "Agrégation",
+    "comment": "Texte général pour l'agrégation"
+  },
+  "AlertsDetails.Label.AlertDescription": {
+    "value": "Description de l'alerte",
+    "comment": "En-tête de champ dans les détails de l'alerte"
+  },
+  "AlertsDetails.Label.AlertTitle": {
+    "value": "Titre de l'alerte",
+    "comment": "En-tête de champ dans les détails de l'alerte"
+  },
+  "AlertsDetails.Label.ApplicationName": {
+    "value": "Nom de l'application",
+    "comment": "En-tête de tableau dans les détails des alertes système"
+  },
+  "AlertsDetails.Label.Duration(seconds)": {
+    "value": "Durée (secondes)",
+    "comment": "En-tête de tableau dans les détails des alertes système"
+  },
+  "AlertsDetails.Label.Condition": {
+    "value": "Condition",
+    "comment": "Texte général pour la condition"
+  },
+  "AlertsDetails.Label.DataTable": {
+    "value": "Données",
+    "comment": "Texte général pour la table de données"
+  },
+  "AlertsDetails.Label.Distribution": {
+    "value": "Distribution",
+    "comment": "Texte général pour la distribution"
+  },
+  "AlertsDetails.Label.EventType": {
+    "value": "Type d'événement",
+    "comment": "Texte de sous-en-tête dans les détails de l'alerte système"
+  },
+  "AlertsDetails.Label.HtmlTemplate": {
+    "value": "Modèle HTML",
+    "comment": "Texte général pour le modèle HTML"
+  },
+  "AlertsDetails.Label.Last": {
+    "value": "Dernier",
+    "comment": "Texte général pour le dernier"
+  },
+  "AlertsDetails.Label.LastReload": {
+    "value": "Dernier rechargement",
+    "comment": "En-tête de tableau dans les détails des alertes système"
+  },
+  "AlertsDetails.Label.Notification": {
+    "value": "Notification",
+    "comment": "Texte général pour Notification"
+  },
+  "AlertsDetails.Label.Schedule": {
+    "value": "Planification",
+    "comment": "Texte général pour Planification"
+  },
+  "AlertsDetails.Label.SelectAll": {
+    "value": "Sélectionner tout",
+    "comment": "Texte du bouton dans les détails des alertes système"
+  },
+  "AlertsDetails.Label.Selected": {
+    "value": "Sélectionné",
+    "comment": "Texte d'information dans les détails des alertes système"
+  },
+  "AlertsDetails.Label.System": {
+    "value": "Système",
+    "comment": "Texte de l'étape dans les alertes système"
+  },
+  "AlertsDetails.Label.Task": {
+    "value": "Tâche",
+    "comment": "En-tête de tableau dans les détails des alertes système"
+  },
+  "AlertsDetails.Label.TaskSelection": {
+    "value": "Sélectionnez les tâches spécifiques dans le tableau ci-dessous",
+    "comment": "Texte de sous-en-tête dans les détails des alertes système"
+  },
+  "AlertsDetails.Label.RuleSelection": {
+    "value": "Utilisez une règle basée sur une chaîne pour choisir dynamiquement les tâches à surveiller. Cela sélectionnera également les nouvelles tâches créées",
+    "comment": "Texte de sous-en-tête dans les détails des alertes système"
+  },
+  "AlertsDetails.Label.UnselectAll": {
+    "value": "Tout désélectionner",
+    "comment": "Texte du bouton dans les détails des alertes système"
+  },
+  "AlertsDetails.Label.Preview.FirstTenRows": {
+    "value": "(premières dix lignes)",
+    "comment": "Texte secondaire pour l'en-tête de prévisualisation"
+  },
+  "AlertsDetails.Label.Frequency.Every": {
+    "value": "À chaque fois",
+    "comment": "À chaque fois pour les étiquettes de fréquence"
+  },
+  "AlertsDetails.Label.Frequency.Once": {
+    "value": "Une seule fois",
+    "comment": "Une seule fois pour les étiquettes de fréquence"
+  },
+  "AlertsDetails.Label.Frequency.Day": {
+    "value": "Seulement la première chaque jour",
+    "comment": "Première de chaque jour pour les étiquettes de fréquence"
+  },
+  "AlertsDetails.Label.Frequency.Hour": {
+    "value": "Seulement la première chaque heure",
+    "comment": "Première de chaque heure pour les étiquettes de fréquence"
+  },
+  "AlertsDetails.Label.Frequency.Month": {
+    "value": "Seulement la première chaque mois",
+    "comment": "Première de chaque mois pour les étiquettes de fréquence"
+  },
+  "AlertsDetails.Label.Frequency.Week": {
+    "value": "Seulement la première chaque semaine",
+    "comment": "Première de chaque semaine pour les étiquettes de fréquence"
+  },
+  "AlertsDetails.Schedule.Title": {
+    "value": "(premières dix lignes)",
+    "comment": "Titre de l'en-tête de planification"
+  },
+  "AlertsDetails.Schedule.Description": {
+    "value": "Personnalisez quand évaluer la condition.",
+    "comment": "Description de l'étape de planification dans la création d'alertes"
+  },
+  "AlertsDetails.Schedule.Broadcast.Description": {
+    "value": "Personnalisez quand envoyer des notifications de diffusion.",
+    "comment": "Description de l'étape de planification dans la création d'alertes pour les alertes de diffusion"
+  },
+  "AlertsDetails.Distribution.PublishBookmark": {
+    "value": "Votre signet ne sera pas disponible pour chaque utilisateur. Voulez-vous le rendre public ?",
+    "comment": "Description pour publier un signet dans une alerte partagée gérée"
+  },
+  "Snackbar.AlertsDetails.PublishedBookmark": {
+    "value": "Votre signet a été publié avec succès",
+    "comment": "Message de la barre de notification après la publication correcte du signet"
+  },
+  "AlertsDetails.Distribution.Description": {
+    "value": "Définissez où, quand et comment la notification sera envoyée.",
+    "comment": "Description de l'étape de distribution dans la création d'alertes"
+  },
+  "AlertsDetails.Notification.Sheet.Title": {
+    "value": "Lien de retour vers l'application Qlik Sense",
+    "comment": "Titre de la section d'entrée de la feuille dans l'étape de notification de la création d'alertes"
+  },
+  "AlertsDetails.Notification.Sheet.Description": {
+    "value": "La notification inclura un lien hypertexte vers Qlik Sense. Sélectionnez la feuille vers laquelle elle doit pointer.",
+    "comment": "Description de la section d'entrée de la feuille dans l'étape de notification de la création d'alertes"
+  },
+  "AlertsDetails.Notification.Custom.Title": {
+    "value": "Modèle de notification par e-mail",
+    "comment": "Titre de la section de modèle de courrier électronique personnalisé dans l'étape de notification de la création d'alertes"
+  },
+  "AlertsDetails.Notification.Custom.Description": {
+    "value": "Personnalisez le format et le style de la notification par e-mail. Trouvez la syntaxe et plus d'informations dans la documentation d'aide.",
+    "comment": "Description de la section de modèle de courrier électronique personnalisé dans l'étape de notification de la création d'alertes"
+  },
+  "App.ExpiryNotice": {
+    "value": "Votre session est sur le point d'expirer",
+    "comment": "Texte affiché dans la barre de notification/toast lorsque la session est sur le point d'expirer"
+  },
+  "Assigner.Label.EmptyTable": {
+    "value": "Le tableau est vide",
+    "comment": "Texte de substitution pour le tableau dans l'assigneur hérité"
+  },
+  "Assigner.Label.FirstFiftyRows": {
+    "value": "(premières cinquante lignes)",
+    "comment": "Texte secondaire pour les en-têtes"
+  },
+  "Assigner.Label.Pending": {
+    "value": "En attente",
+    "comment": "En-tête pour le tableau en attente"
+  },
+  "Assigner.Label.NoPendingItems": {
+    "value": "Aucun élément en attente pour le moment",
+    "comment": "Texte de substitution pour les éléments en attente dans l'assigneur"
+  },
+  "Assigner.Label.Assigned": {
+    "value": "Assigné",
+    "comment": "Texte d'en-tête dans le composant Assigneur"
+  },
+  "Assigner.Label.FullName": {
+    "value": "Nom complet",
+    "comment": "Texte d'en-tête dans le composant Assigneur"
+  },
+  "Assigner.Label.Unassigned": {
+    "value": "Non assigné",
+    "comment": "Texte d'en-tête dans le composant Assigneur"
+  },
+  "Assigner.Label.User": {
+    "value": "Utilisateur",
+    "comment": "Texte d'en-tête dans le composant Assigneur"
+  },
+  "Assigner.Label.Domain": {
+    "value": "Domaine",
+    "comment": "Texte d'en-tête dans le composant Assigneur"
+  },
+  "Breadcrumbs.Admin": {
+    "value": "Administrateur",
+    "comment": "Texte de fil d'Ariane pour Administrateur"
+  },
+  "Breadcrumbs.Channels": {
+    "value": "Canaux",
+    "comment": "Texte de fil d'Ariane pour Canaux"
+  },
+  "Breadcrumbs.Details": {
+    "value": "Détails",
+    "comment": "Texte de fil d'Ariane pour Détails"
+  },
+  "Breadcrumbs.Groups": {
+    "value": "Groupes",
+    "comment": "Texte de fil d'Ariane pour Groupes"
+  },
+  "Breadcrumbs.Management": {
+    "value": "Gestion",
+    "comment": "Texte de fil d'Ariane pour Gestion"
+  },
+  "Breadcrumbs.Privileges": {
+    "value": "Privilèges",
+    "comment": "Texte de fil d'Ariane pour Privilèges"
+  },
+  "Breadcrumbs.Settings": {
+    "value": "Paramètres",
+    "comment": "Texte de fil d'Ariane pour Paramètres"
+  },
+  "Breadcrumbs.Sources": {
+    "value": "Sources",
+    "comment": "Texte de fil d'Ariane pour Sources"
+  },
+  "Breadcrumbs.Users": {
+    "value": "Utilisateurs",
+    "comment": "Texte de fil d'Ariane pour Utilisateurs"
+  },
+  "ChangePassword.Change": {
+    "value": "Changer",
+    "comment": "Texte du lien dans Changer le mot de passe"
+  },
+  "ChangePassword.Generate": {
+    "value": "Générer",
+    "comment": "Texte du lien dans Changer le mot de passe"
+  },
+  "ChangePassword.Modal.CancelContent": {
+    "value": "Vous êtes sur le point de quitter cette page et de perdre toutes les modifications non enregistrées. Êtes-vous sûr(e) ?",
+    "comment": "Contenu du modal pour quitter la page de changement de mot de passe"
+  },
+  "ChangePassword.YourPassword": {
+    "value": " votre mot de passe",
+    "comment": "Texte du lien dans Changer le mot de passe"
+  },
+  "Channels.Label.Address": {
+    "value": "Adresse",
+    "comment": "Texte d'en-tête dans Canaux"
+  },
+  "Channels.Label.Channel": {
+    "value": "Canal",
+    "comment": "Texte d'en-tête dans Canaux"
+  },
+  "Channels.Label.Email": {
+    "value": "E-mail",
+    "comment": "Texte d'en-tête dans Canaux"
+  },
+  "Channels.Label.PortNo": {
+    "value": "Numéro de port",
+    "comment": "Texte d'en-tête dans Canaux"
+  },
+  "Channels.Label.SecurityLayer": {
+    "value": "Couche de sécurité",
+    "comment": "Texte d'en-tête dans Canaux"
+  },
+  "ChannelsDetails.AuthMethod.Anonymous": {
+    "value": "Anonyme",
+    "comment": "Libellé pour la méthode d'authentification anonyme dans Détails des Canaux"
+  },
+  "ChannelsDetails.AuthMethod.Basic": {
+    "value": "De base",
+    "comment": "Libellé pour la méthode d'authentification de base dans Détails des Canaux"
+  },
+  "ChannelsDetails.Fields.Options.None": {
+    "value": "Aucun",
+    "comment": "Option Aucun dans les détails des Canaux"
+  },
+  "ChannelsDetails.Fields.Options.SSL": {
+    "value": "Utiliser SSL (Secure Socket Layer)",
+    "comment": "Option SSL dans les détails des Canaux"
+  },
+  "ChannelsDetails.Fields.Options.TLS": {
+    "value": "Utiliser TLS (Transport Layer Security)",
+    "comment": "Option TLS dans les détails des Canaux"
+  },
+  "ChannelsDetails.Label.Address": {
+    "value": "Adresse *",
+    "comment": "Texte d'en-tête dans Détails des Canaux"
+  },
+  "ChannelsDetails.Label.PortNo": {
+    "value": "Numéro de port *",
+    "comment": "Texte d'en-tête dans Détails des Canaux"
+  },
+  "ChannelsDetails.Label.TestEmail": {
+    "value": "Adresse e-mail de test",
+    "comment": "Texte d'en-tête dans Détails des Canaux"
+  },
+  "ChannelsDetails.HelperText.TestEmail": {
+    "value": "Si non fourni, un e-mail de test sera envoyé au nom d'utilisateur d'authentification",
+    "comment": "Texte d'aide pour le formulaire Détails des Canaux"
+  },
+  "ChannelsDetails.Label.UserName": {
+    "value": "Nom d'utilisateur *",
+    "comment": "Texte d'en-tête dans Détails des Canaux"
+  },
+  "ChannelsDetails.Label.Password": {
+    "value": "Mot de passe *",
+    "comment": "Texte d'en-tête dans Détails des Canaux"
+  },
+  "ChannelsDetails.Label.DefaultEmail": {
+    "value": "Expéditeur par défaut",
+    "comment": "Texte d'en-tête dans Détails des Canaux"
+  },
+  "ChannelsDetails.HelperText.DefaultEmail": {
+    "value": "(optionnel)",
+    "comment": "Texte d'aide dans Détails des Canaux"
+  },
+  "ChangePassword.Button.ChangePassword": {
+    "value": "Changer le mot de passe",
+    "comment": "Texte du bouton dans la page Changer le mot de passe"
+  },
+  "ChangePassword.Label.ConfirmNewPassword": {
+    "value": "Confirmer le nouveau mot de passe",
+    "comment": "Texte de l'étiquette dans la page Changer le mot de passe"
+  },
+  "ChangePassword.Label.NewPassword": {
+    "value": "Entrer le nouveau mot de passe",
+    "comment": "Texte de l'étiquette dans la page Changer le mot de passe"
+  },
+  "ChangePassword.Label.OldPassword": {
+    "value": "Entrer l'ancien mot de passe",
+    "comment": "Texte de l'étiquette dans la page Changer le mot de passe"
+  },
+  "ChangePassword.Modal.Content": {
+    "value": "Vous êtes sur le point de quitter cette page et de perdre toutes les modifications non enregistrées. Êtes-vous sûr(e) ?",
+    "comment": "Contenu du modal dans Changer le mot de passe"
+  },
+  "Condition.Label.Average": {
+    "value": "Moyenne",
+    "comment": "Libellé pour l'option d'agrégation"
+  },
+  "Condition.Label.Max": {
+    "value": "Max",
+    "comment": "Libellé pour l'option d'agrégation"
+  },
+  "Condition.Label.Min": {
+    "value": "Min",
+    "comment": "Libellé pour l'option d'agrégation"
+  },
+  "Condition.Label.IsPercent": {
+    "value": "Décalage en pourcentage",
+    "comment": "Libellé pour la case à cocher permettant de basculer le décalage en pourcentage dans l'étape Condition"
+  },
+  "Condition.Label.CreateNew": {
+    "value": "Créer une nouvelle condition",
+    "comment": "Libellé pour le bouton de création d'une nouvelle condition"
+  },
+  "Condition.Label.CreateRule": {
+    "value": "Créer une nouvelle règle",
+    "comment": "Texte du bouton dans Conditions"
+  },
+  "Condition.Label.Aggregation": {
+    "value": "Agrégation",
+    "comment": "Texte de l'étiquette dans Conditions"
+  },
+  "Condition.Label.Column": {
+    "value": "Colonne",
+    "comment": "Texte de l'étiquette dans Conditions"
+  },
+  "Condition.Label.Conditions": {
+    "value": "Conditions",
+    "comment": "Sous-entête dans Conditions"
+  },
+  "Condition.Label.Conditions.Description": {
+    "value": "Définir la ou les limites pour déclencher une notification.",
+    "comment": "Description de la section Conditions"
+  },
+  "Condition.Label.CompareWith": {
+    "value": "Comparer avec",
+    "comment": "Texte du bouton dans Conditions"
+  },
+  "Condition.Label.InvalidDataTable": {
+    "value": "Table de données non valide",
+    "comment": "Texte d'information pour Conditions"
+  },
+  "Condition.Label.Offset": {
+    "value": "Décalage",
+    "comment": "Texte de l'étiquette dans les Conditions"
+  },
+  "Condition.Label.Operator": {
+    "value": "Opérateur",
+    "comment": "Texte de l'étiquette dans les Conditions"
+  },
+  "Condition.Label.Operator.GreaterThan": {
+    "value": "supérieur à (>)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.GreaterThanOrEqual": {
+    "value": "supérieur ou égal à (>=)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.LessThan": {
+    "value": "inférieur à (<)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.LessThanOrEqual": {
+    "value": "inférieur ou égal à (<=)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.Equal": {
+    "value": "égal à (=)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.NotEqual": {
+    "value": "différent de (!=)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.Includes": {
+    "value": "inclut",
+    "comment": ""
+  },
+  "Condition.Label.Operator.StartsWith": {
+    "value": "commence par",
+    "comment": ""
+  },
+  "Condition.Label.Operator.EndsWith": {
+    "value": "se termine par",
+    "comment": ""
+  },
+  "Condition.Label.Percentile": {
+    "value": "Centile",
+    "comment": "Texte de l'étiquette dans les Conditions"
+  },
+  "Condition.Label.Quartile": {
+    "value": "Quartile",
+    "comment": "Texte de l'étiquette dans les Conditions"
+  },
+  "Condition.Label.Remove": {
+    "value": "Supprimer",
+    "comment": "Texte du bouton dans les Conditions"
+  },
+  "Condition.Label.Rules": {
+    "value": "Règles personnalisées",
+    "comment": "Sous-titre dans les Conditions"
+  },
+  "Condition.Label.CustomRule": {
+    "value": "Règle personnalisée",
+    "comment": "Étiquette pour le champ de saisie des règles dans le panneau des règles"
+  },
+  "Condition.Label.Rule": {
+    "value": "Règle {0}",
+    "comment": "Texte d'en-tête pour le résumé du panneau de règles. {0} contient le nom de la règle."
+  },
+  "Condition.Label.OkSyntax": {
+    "value": "La syntaxe est correcte.",
+    "comment": "Texte d'indication sous le champ de saisie informant l'utilisateur que la valeur est valide"
+  },
+  "Condition.Label.Rules.Description": {
+    "value": "Les conditions seront évaluées une par une, sauf si vous créez des règles personnalisées.",
+    "comment": "Description pour la section des Règles personnalisées de l'étape Condition dans la création d'alertes"
+  },
+  "Condition.Label.Scans": {
+    "value": "Scans",
+    "comment": "Texte de l'étiquette dans la Condition"
+  },
+  "Condition.Label.StandardDeviation": {
+    "value": "Écart type",
+    "comment": "Texte de l'étiquette dans la Condition"
+  },
+  "Condition.Label.TimeZone": {
+    "value": "Fuseau horaire",
+    "comment": "Texte de l'étiquette dans la Condition"
+  },
+  "Condition.Label.Type": {
+    "value": "Type",
+    "comment": "Texte de l'étiquette dans la Condition"
+  },
+  "Condition.Label.Type.ManualValue": {
+    "value": "Valeur manuelle",
+    "comment": "Type de condition lors de la comparaison avec une valeur fixe"
+  },
+  "Condition.Label.Type.Measure": {
+    "value": "Mesure",
+    "comment": "Type de condition lors de la comparaison avec une autre colonne"
+  },
+  "Condition.Label.Type.PreviousScans": {
+    "value": "Scans précédents",
+    "comment": "Type de condition lors de la comparaison avec l'historique"
+  },
+  "Condition.Label.Type.Set": {
+    "value": "Ensemble",
+    "comment": "Type de condition lors de la comparaison avec une agrégation de la même colonne"
+  },
+  "Condition.Label.ValidateConditions": {
+    "value": "Valider les conditions",
+    "comment": "Texte du bouton dans les Conditions"
+  },
+  "Condition.Label.Value": {
+    "value": "Valeur",
+    "comment": "Texte du bouton dans les Conditions"
+  },
+  "Condition.TableHeader.Negative": {
+    "value": "Négatif",
+    "comment": "Étiquette de valeur négative pour l'en-tête du tableau"
+  },
+  "Condition.TableHeader.Positive": {
+    "value": "Positif",
+    "comment": "Étiquette de valeur positive pour l'en-tête du tableau"
+  },
+  "Condition.TableHeader.Total": {
+    "value": "Total",
+    "comment": "Étiquette de valeur totale pour l'en-tête du tableau"
+  },
+  "ConditionsPanels.Condition": {
+    "value": "Condition {0}",
+    "comment": "Texte d'en-tête pour le résumé du panneau de conditions. {0} contient le nom de la condition"
+  },
+  "ConditionPanels.Label.CreateNewCondition": {
+    "value": "Créer une nouvelle condition",
+    "comment": "Texte de l'étiquette dans les panneaux de notification"
+  },
+  "ConditionPanels.Label.isPercent": {
+    "value": "est en pourcentage ?",
+    "comment": "Texte de l'étiquette dans les panneaux de notification"
+  },
+  "Config.Helper.HostServer": {
+    "value": "IP ou DNS du serveur Qlik Alerting utilisé pour les liens URL",
+    "comment": "Texte d'aide dans Config"
+  },
+  "Config.Helper.HttpPort": {
+    "value": "Veuillez entrer le port de base pour le transfert de données",
+    "comment": "Texte d'aide dans Config"
+  },
+  "Config.Helper.HttpsPort": {
+    "value": "Veuillez entrer le port sécurisé pour le transfert de données",
+    "comment": "Texte d'aide dans Config"
+  },
+  "Config.Label.HostServer": {
+    "value": "Nom du serveur hôte Qlik Alerting *",
+    "comment": "Texte de l'étiquette dans Config"
+  },
+  "Config.Label.HttpPort": {
+    "value": "Port HTTP de Qlik Alerting *",
+    "comment": "Texte de l'étiquette dans Config"
+  },
+  "Config.Label.HttpsPort": {
+    "value": "Port HTTPS de Qlik Alerting *",
+    "comment": "Texte de l'étiquette dans Config"
+  },
+  "Config.Modal.CancelContent": {
+    "value": "Vous êtes sur le point de quitter cette page et de perdre toutes les modifications non enregistrées. Êtes-vous sûr ?",
+    "comment": "Contenu d'annulation pour la fenêtre modale sur la page de configuration"
+  },
+  "DataTable.Label.Application": {
+    "value": "Application",
+    "comment": "Texte de l'en-tête du sélecteur dans le tableau de données"
+  },
+  "DataTable.Label.Source": {
+    "value": "Source (application Qlik Sense)",
+    "comment": "Texte de l'en-tête du sélecteur dans le tableau de données"
+  },
+  "DataTable.Label.RefreshCache": {
+    "value": "Actualiser",
+    "comment": "Étiquette pour le bouton d'actualisation du cache pour la liste des applications et objets dans le tableau de données"
+  },
+  "DataTable.Label.RefreshTooltip": {
+    "value": "Actualisez les listes d'applications. Cela peut être nécessaire si vous ne pouvez pas voir un objet récemment créé.",
+    "comment": "Étiquette pour le bouton d'info bulle pour actualiser le cache pour la liste des applications et objets dans le tableau de données"
+  },
+  "DataTable.Label.Bookmark": {
+    "value": "Signet",
+    "comment": "Texte de l'en-tête du sélecteur dans le tableau de données"
+  },
+  "DataTable.Label.CustomExpression": {
+    "value": "Expression",
+    "comment": "Texte de l'en-tête du sélecteur dans le tableau de données"
+  },
+  "DataTable.Label.CustomLabel": {
+    "value": "Étiquette",
+    "comment": "Texte de l'en-tête du sélecteur dans le tableau de données"
+  },
+  "DataTable.Label.CustomMeasure": {
+    "value": "Mesure personnalisée",
+    "comment": "Texte de commutation dans le tableau de données"
+  },
+  "DataTable.Label.DataSource": {
+    "value": "Source de données",
+    "comment": "Texte de sous-en-tête dans le tableau de données"
+  },
+  "DataTable.Label.Dimension": {
+    "value": "Dimension",
+    "comment": "Texte de l'en-tête du sélecteur dans le tableau de données"
+  },
+  "DataTable.Label.DrillToDimension": {
+    "value": "Forer jusqu'à la dimension",
+    "comment": "Texte de sous-en-tête dans le tableau de données"
+  },
+  "DataTable.Label.DrillToDimension.Description": {
+    "value": "Divisez les mesures par dimension pour obtenir un résultat plus spécifique.",
+    "comment": "Description pour la section DrillToDimension de l'étape Data dans la création d'alertes"
+  },
+  "DataTable.Label.Filters": {
+    "value": "Filtres",
+    "comment": "Texte de sous-en-tête dans le tableau de données"
+  },
+  "DataTable.Label.Filter": {
+    "value": "Filtre",
+    "comment": "Texte de l'en-tête du sélecteur dans le tableau de données"
+  },
+  "DataTable.Label.AddFilter": {
+    "value": "Ajouter un filtre",
+    "comment": "Étiquette pour le bouton d'ajout de filtre dans le tableau de données"
+  },
+  "DataTable.Label.AddedFilters": {
+    "value": "Filtres ajoutés",
+    "comment": "En-tête pour le tableau qui montre les filtres ajoutés dans le tableau de données"
+  },
+  "DataTable.Label.FilterField": {
+    "value": "Champ de filtre",
+    "comment": "Texte de l'en-tête du sélecteur dans le tableau de données"
+  },
+  "DataTable.Label.Preview": {
+    "value": "Aperçu",
+    "comment": "En-tête pour le tableau d'aperçu"
+  },
+  "DataTable.Label.Filters.Description": {
+    "value": "Filtrer en sélectionnant un signet ou créer un filtre personnalisé en utilisant des champs et des valeurs",
+    "comment": "Description pour la section Filtres de l'étape Data dans la création d'alertes"
+  },
+  "DataTable.Label.Measures": {
+    "value": "Ajouter des mesures",
+    "comment": "Texte de sous-en-tête dans le tableau de données"
+  },
+  "DataTable.Label.AddMeasure": {
+    "value": "Ajouter une mesure",
+    "comment": "Étiquette pour le bouton d'ajout de mesure dans le tableau de données"
+  },
+  "DataTable.Label.AddedMeasures": {
+    "value": "Mesures ajoutées",
+    "comment": "En-tête pour le tableau des mesures ajoutées dans le tableau de données"
+  },
+  "DataTable.Label.AddedMeasures.NoneAdded": {
+    "value": "Aucune mesure ajoutée pour le moment",
+    "comment": "Texte de substitution pour le tableau d'ajout de mesures dans l'étape de création d'alertes"
+  },
+  "DataTable.Label.Format": {
+    "value": "Format",
+    "comment": "Texte de l'en-tête du sélecteur dans le tableau de données"
+  },
+  "DataTable.Label.Measure": {
+    "value": "Mesure",
+    "comment": "Texte de sous-en-tête dans le tableau de données"
+  },
+  "DataTable.Label.Sheet": {
+    "value": "Feuille",
+    "comment": "Texte de l'en-tête du sélecteur dans le tableau de données"
+  },
+  "DataTable.Label.SortAscending": {
+    "value": "Trier par ordre croissant",
+    "comment": "Texte d'information pour Trier par ordre croissant"
+  },
+  "DataTable.Label.SortBy": {
+    "value": "Trier par",
+    "comment": "Texte d'information pour Trier par"
+  },
+  "DataTable.Label.SortOrder": {
+    "value": "Ordre de tri",
+    "comment": "Texte d'information pour Ordre de tri"
+  },
+  "DataTable.Label.Ascending": {
+    "value": "Croissant",
+    "comment": "Étiquette pour la valeur croissante"
+  },
+  "DataTable.Label.Descending": {
+    "value": "Décroissant",
+    "comment": "Étiquette pour la valeur décroissante"
+  },
+  "DataTable.Label.Values": {
+    "value": "Valeurs",
+    "comment": "Texte de l'en-tête du sélecteur dans le tableau de données"
+  },
+  "Devices.Card.AddDevice": {
+    "value": " Ajouter un nouveau périphérique :",
+    "comment": "Texte de la carte dans les périphériques"
+  },
+  "Devices.Card.DownloadApp": {
+    "value": "Veuillez télécharger l'application depuis l'AppStore, cliquez sur + pour ajouter et appairez avec ce code QR",
+    "comment": "Texte de la carte dans les périphériques"
+  },
+  "Devices.Card.EmptyCard": {
+    "value": "Vous pouvez appairer jusqu'à 5 périphériques différents dans la liste des appareils mobiles.",
+    "comment": "Texte de la carte dans les périphériques"
+  },
+  "Devices.Card.FilledCard": {
+    "value": "Périphérique :",
+    "comment": "Texte de la carte dans les périphériques"
+  },
+  "Devices.Card.DeviceStatus": {
+    "value": "État du périphérique :",
+    "comment": "Texte de la carte dans les périphériques"
+  },
+  "Devices.Card.MobileDeviceList": {
+    "value": "Liste des appareils mobiles",
+    "comment": "Texte de l'en-tête dans les périphériques"
+  },
+  "Devices.Card.QrCode": {
+    "value": "Veuillez scanner le code QR pour enregistrer le périphérique",
+    "comment": "Texte de la carte dans les périphériques"
+  },
+  "Devices.Card.Refresh": {
+    "value": "Actualiser",
+    "comment": "Texte de la carte dans les périphériques"
+  },
+  "Devices.Card.Remove": {
+    "value": "SUPPRIMER LE PÉRIPHÉRIQUE",
+    "comment": "Texte de la carte dans les périphériques"
+  },
+  "Devices.Card.Since": {
+    "value": "Depuis :",
+    "comment": "Texte de la carte dans les périphériques"
+  },
+  "Devices.Card.DeviceType": {
+    "value": "Type de périphérique :",
+    "comment": "Typographie pour le type de périphérique"
+  },
+  "DataTable.Label.Preview.Description": {
+    "value": "Ajoutez une mesure pour commencer à prévisualiser l'alerte et le tableau de données",
+    "comment": "Texte de substitution pour la prévisualisation dans l'étape de données"
+  },
+  "DataTable.Group.MasterMeasures": {
+    "value": "Mesures maîtresses",
+    "comment": "Étiquette pour le groupe de mesures maîtresses dans l'entrée de sélection"
+  },
+  "Distribution.Label.Advanced": {
+    "value": "Avancé",
+    "comment": "Texte de commutation dans la distribution"
+  },
+  "Distribution.Label.BroadcastAlert": {
+    "value": "Diffuser l'alerte",
+    "comment": "Texte radio dans la distribution"
+  },
+  "Distribution.Label.Channels": {
+    "value": "Canaux",
+    "comment": "Texte de l'en-tête du sélecteur dans la distribution"
+  },
+  "Distribution.Label.Frequency": {
+    "value": "Fréquence",
+    "comment": "Texte de l'en-tête du sélecteur dans la distribution"
+  },
+  "Distribution.Label.PublishBookmark": {
+    "value": "Publier le signet",
+    "comment": "Publier le signet dans l'alerte gérée à l'étape de distribution"
+  },
+  "Distribution.Label.ManagedAlert": {
+    "value": "Alerte partagée gérée",
+    "comment": "Texte radio dans la distribution"
+  },
+  "Distribution.Label.PreviewList": {
+    "value": "Liste de prévisualisation",
+    "comment": "Texte du bouton dans la distribution"
+  },
+  "Distribution.Label.SelectedRecipients": {
+    "value": "Destinataires sélectionnés :",
+    "comment": "Étiquette pour le nombre de destinataires sélectionnés"
+  },
+  "Distribution.Label.SelectedGroups": {
+    "value": "Groupes sélectionnés :",
+    "comment": "Étiquette pour le nombre de groupes sélectionnés"
+  },
+  "Distribution.Label.SelectGroups": {
+    "value": "Sélectionner des groupes",
+    "comment": "Texte du bouton dans la distribution"
+  },
+  "Distribution.Label.SelectRecipients": {
+    "value": "Sélectionner des destinataires",
+    "comment": "Texte du bouton dans la distribution"
+  },
+  "General.Accept": {
+    "value": "Accepter",
+    "comment": "Texte général pour Accepter"
+  },
+  "General.Cancel": {
+    "value": "Annuler",
+    "comment": "Texte général pour Annuler"
+  },
+  "General.Clear": {
+    "value": "Effacer",
+    "comment": "Texte général pour Effacer"
+  },
+  "General.Close": {
+    "value": "Fermer",
+    "comment": "Texte général pour Fermer"
+  },
+  "General.Confirm": {
+    "value": "Confirmer",
+    "comment": "Texte général pour Confirmer"
+  },
+  "General.Create": {
+    "value": "Créer",
+    "comment": "Texte général pour Créer"
+  },
+  "General.Delete": {
+    "value": "Supprimer",
+    "comment": "Texte général pour Supprimer"
+  },
+  "General.DeleteContent": {
+    "value": "Êtes-vous sûr de vouloir supprimer?",
+    "comment": "Contenu général pour supprimer"
+  },
+  "General.Duplicate": {
+    "value": "Dupliquer",
+    "comment": "Texte général pour Dupliquer"
+  },
+  "General.Edit": {
+    "value": "Éditer",
+    "comment": "Texte général pour Éditer"
+  },
+  "General.Next": {
+    "value": "Suivant",
+    "comment": "Texte général pour Suivant"
+  },
+  "General.No": {
+    "value": "Non",
+    "comment": "Texte général pour Non"
+  },
+  "General.Reject": {
+    "value": "Rejeter",
+    "comment": "Texte général pour Rejeter"
+  },
+  "General.Save": {
+    "value": "Enregistrer",
+    "comment": "Texte général pour Enregistrer"
+  },
+  "General.Search": {
+    "value": "Rechercher",
+    "comment": "Texte général pour Rechercher"
+  },
+  "General.SelectAll": {
+    "value": "Tout sélectionner",
+    "comment": "Texte général pour Tout sélectionner"
+  },
+  "General.Selected": {
+    "value": "Sélectionné",
+    "comment": "Texte général pour Sélectionné"
+  },
+  "General.Share": {
+    "value": "Partager",
+    "comment": "Texte général pour Partager"
+  },
+  "General.ShowMore": {
+    "value": "Afficher plus",
+    "comment": "Texte général pour Afficher plus"
+  },
+  "General.Test": {
+    "value": "Tester la connexion",
+    "comment": "Texte général pour Tester"
+  },
+  "General.Trigger": {
+    "value": "Déclencher",
+    "comment": "Texte général pour Déclencher"
+  },
+  "General.UnselectAll": {
+    "value": "Tout désélectionner",
+    "comment": "Texte général pour Tout désélectionner"
+  },
+  "General.Update": {
+    "value": "Mettre à jour",
+    "comment": "Texte général pour Mettre à jour"
+  },
+  "General.Yes": {
+    "value": "Oui",
+    "comment": "Texte général pour Oui"
+  },
+  "General.Previous": {
+    "value": "Précédent",
+    "comment": "Texte général pour Précédent"
+  },
+  "Inbox.DataHandler.NeverScanned": {
+    "value": "Jamais scanné",
+    "comment": "Valeur jamais scannée pour la dernière analyse"
+  },
+  "Inbox.DataHandler.NotTriggered": {
+    "value": "Non déclenché lors des 100 derniers",
+    "comment": "Valeur Non déclenché pour le dernier déclenchement"
+  },
+  "Inbox.Label.AlertName": {
+    "value": "Nom de l'alerte",
+    "comment": "Texte de l'en-tête dans la boîte de réception"
+  },
+  "Inbox.Label.ApplicationName": {
+    "value": "Nom de l'application",
+    "comment": "Texte de l'en-tête dans la boîte de réception"
+  },
+  "Inbox.Label.ExecutionStatus": {
+    "value": "Statut d'exécution",
+    "comment": "Texte de l'en-tête dans la boîte de réception"
+  },
+  "Inbox.Label.Last10": {
+    "value": "Dernières 10 analyses déclenchées",
+    "comment": "Texte de l'en-tête dans la boîte de réception"
+  },
+  "Inbox.Label.Last100": {
+    "value": "Dernières 100 analyses déclenchées",
+    "comment": "Texte de l'en-tête dans la boîte de réception"
+  },
+  "Inbox.Label.LastScan": {
+    "value": "Dernière analyse",
+    "comment": "Texte de l'en-tête dans la boîte de réception"
+  },
+  "Inbox.Label.LastTriggered": {
+    "value": "Dernier déclenché",
+    "comment": "Texte de l'en-tête dans la boîte de réception"
+  },
+  "Inbox.Label.TaskName": {
+    "value": "Nom de la tâche",
+    "comment": "Texte de l'en-tête dans la boîte de réception"
+  },
+  "Inbox.Label.TriggerType": {
+    "value": "Type de déclenchement",
+    "comment": "Texte de l'en-tête dans la boîte de réception"
+  },
+  "Inbox.Label.View": {
+    "value": "Voir",
+    "comment": "Texte de l'en-tête dans la boîte de réception"
+  },
+  "InboxData.Button.ExportData": {
+    "value": "Exporter les données",
+    "comment": "Bouton Exporter les données"
+  },
+  "InboxData.DataHandler.BookmarkField": {
+    "value": "Signet appliqué",
+    "comment": "Données de champ lorsqu'il y a un signet"
+  },
+  "InboxData.DataHandler.NoFiltersField": {
+    "value": "Aucun filtre sélectionné",
+    "comment": "Données de champ lorsqu'il n'y a pas de filtres"
+  },
+  "InboxData.DataHandler.Label.Every": {
+    "value": "À chaque fois",
+    "comment": "À chaque fois pour les étiquettes de fréquence"
+  },
+  "InboxData.DataHandler.Label.Once": {
+    "value": "Seulement une fois",
+    "comment": "Seulement une fois pour les étiquettes de fréquence"
+  },
+  "InboxData.DataHandler.Label.FirstDay": {
+    "value": "Seulement le premier chaque jour",
+    "comment": "Premier de chaque jour pour les étiquettes de fréquence"
+  },
+  "InboxData.DataHandler.Label.FirstHour": {
+    "value": "Seulement le premier chaque heure",
+    "comment": "Premier de chaque heure pour les étiquettes de fréquence"
+  },
+  "InboxData.DataHandler.Label.FirstMonth": {
+    "value": "Seulement le premier chaque mois",
+    "comment": "Premier de chaque mois pour les étiquettes de fréquence"
+  },
+  "InboxData.DataHandler.Label.FirstWeek": {
+    "value": "Seulement le premier chaque semaine",
+    "comment": "Premier de chaque semaine pour les étiquettes de fréquence"
+  },
+  "InboxData.DataHandler.No": {
+    "value": "Non",
+    "comment": "Non"
+  },
+  "InboxData.DataHandler.Yes": {
+    "value": "Oui",
+    "comment": "Oui"
+  },
+  "InboxData.FilterTable.Field": {
+    "value": "Champ",
+    "comment": "Étiquette pour les définitions de champ de la table de filtres"
+  },
+  "InboxData.FilterTable.Selections": {
+    "value": "Sélections",
+    "comment": "Étiquette pour les définitions de sélections de la table de filtres"
+  },
+  "InboxData.MainTable.Notified": {
+    "value": "Notifié",
+    "comment": "Étiquette pour les définitions de titre de la table principale"
+  },
+  "InboxData.MainTable.Title": {
+    "value": "Titre",
+    "comment": "Étiquette pour les définitions de titre de la table principale"
+  },
+  "InboxData.MainTable.TriggeredData": {
+    "value": "Données déclenchées",
+    "comment": "Étiquette pour les définitions de données déclenchées de la table principale"
+  },
+  "InboxData.SimpleCard.AppName": {
+    "value": "Nom de l'application",
+    "comment": "Étiquette du nom de l'application pour les définitions de la carte simple"
+  },
+  "InboxData.SimpleCard.Conditions": {
+    "value": "Conditions",
+    "comment": "Étiquette des conditions pour les définitions de la carte simple"
+  },
+  "InboxData.SimpleCard.DistributionFrequency": {
+    "value": "Fréquence de distribution",
+    "comment": "Étiquette de la fréquence de distribution pour les définitions de la carte simple"
+  },
+  "InboxData.SimpleCard.Rules": {
+    "value": "Règles",
+    "comment": "Étiquette des règles pour les définitions de la carte simple"
+  },
+  "InboxData.SimpleCard.ScanDetails": {
+    "value": "Détails de l'analyse à",
+    "comment": "Titre pour la carte simple"
+  },
+  "InboxData.SimpleCard.Title": {
+    "value": "Titre",
+    "comment": "Étiquette du titre pour les définitions de la carte simple"
+  },
+  "InboxData.Span.LastTen": {
+    "value": "Dernières 10 analyses",
+    "comment": "Titre pour la table des analyses"
+  },
+  "InboxData.Typography.ClickRow": {
+    "value": "(cliquez sur une ligne pour voir les détails)",
+    "comment": "Sous-titre pour la table des analyses"
+  },
+  "InboxData.Typography.Filters": {
+    "value": "Filtres",
+    "comment": "Titre pour la table des filtres"
+  },
+  "InboxData.Typography.ReportedData": {
+    "value": "Données signalées",
+    "comment": "Titre pour la table des données signalées"
+  },
+  "InboxData.Typography.ReportedSubtitle": {
+    "value": "affichant",
+    "comment": "Première partie du sous-titre des données signalées"
+  },
+  "InboxData.Typography.ReportedSubtitleCont": {
+    "value": "de",
+    "comment": "Deuxième partie du sous-titre des données signalées"
+  },
+  "InboxSystem.DataHandler.NotYet": {
+    "value": "Pas encore terminé",
+    "comment": "Pas encore terminé pour l'état de la tâche"
+  },
+  "InboxSystem.DataHandler.Success": {
+    "value": "Succès",
+    "comment": "Valeur de succès pour l'état de la tâche"
+  },
+  "InboxSystem.Label.AlertName": {
+    "value": "Nom de l'alerte",
+    "comment": "Texte de la ligne dans le système de la boîte de réception"
+  },
+  "InboxSystem.Label.ApplicationName": {
+    "value": "Nom de l'application",
+    "comment": "Texte de la ligne dans le système de la boîte de réception"
+  },
+  "InboxSystem.Label.Details": {
+    "value": "Détails de l'alerte système",
+    "comment": "Texte de l'en-tête dans le système de la boîte de réception"
+  },
+  "InboxSystem.Label.Duration": {
+    "value": "Durée",
+    "comment": "Texte de la ligne dans le système de la boîte de réception"
+  },
+  "InboxSystem.Label.isActive": {
+    "value": "Est actif",
+    "comment": "Texte de la ligne dans le système de la boîte de réception"
+  },
+  "InboxSystem.Label.Status": {
+    "value": "Statut",
+    "comment": "Texte de la ligne dans le système de la boîte de réception"
+  },
+  "InboxSystem.Label.TaskName": {
+    "value": "Nom de la tâche",
+    "comment": "Texte de la ligne dans le système de la boîte de réception"
+  },
+  "InboxSystem.Label.TaskStatus": {
+    "value": "État de la tâche",
+    "comment": "Texte de la ligne dans le système de la boîte de réception"
+  },
+  "InboxSystem.Label.Triggered": {
+    "value": "Déclenché",
+    "comment": "Texte de la ligne dans le système de la boîte de réception"
+  },
+  "InboxSystem.Label.TriggeredDateAndTime": {
+    "value": "Date et heure du déclenchement",
+    "comment": "Texte de l'en-tête dans le système de la boîte de réception"
+  },
+  "InboxSystem.Label.TriggeredHistory": {
+    "value": "Historique des déclenchements d'alertes système",
+    "comment": "Texte de l'en-tête dans le système de la boîte de réception"
+  },
+  "Login.Card.Title": {
+    "value": "Bienvenue sur Qlik Alerting !",
+    "comment": "Titre pour la carte de connexion sur l'écran de connexion"
+  },
+  "Login.Card.Subtitle": {
+    "value": "Connectons-vous.",
+    "comment": "Sous-titre pour la carte de connexion sur l'écran de connexion"
+  },
+  "Login.Label.UserID": {
+    "value": "Nom d'utilisateur",
+    "comment": "Étiquette pour le champ de saisie du nom d'utilisateur sur la page de connexion"
+  },
+  "Login.Label.Alerting": {
+    "value": "Alerting ™",
+    "comment": "Étiquette d'en-tête sur la page de connexion"
+  },
+  "Login.Label.Password": {
+    "value": "Mot de passe",
+    "comment": "Étiquette pour le champ de saisie du mot de passe sur la page de connexion"
+  },
+  "Login.Link.BackToLogin": {
+    "value": "Retour à la connexion",
+    "comment": "Texte du lien sur la page de connexion"
+  },
+  "Login.Link.ForgotPassword": {
+    "value": "J'ai oublié mon mot de passe",
+    "comment": "Texte du lien sur la page de connexion"
+  },
+  "Login.Link.Login": {
+    "value": "Connexion",
+    "comment": "Texte du lien sur la page de connexion"
+  },
+  "Login.Link.RecoverPassword": {
+    "value": "Récupérer le mot de passe",
+    "comment": "Texte du lien sur la page de connexion"
+  },
+  "Navbar.AlertCreation.IncompleteAlert.Title": {
+    "value": "Alerte incomplète",
+    "comment": "Titre pour la boîte de dialogue d'avertissement d'alerte incomplète"
+  },
+  "Navbar.AlertCreation.IncompleteAlert.Content": {
+    "value": "L'alerte ne peut pas être enregistrée car il reste des champs obligatoires à remplir. Si vous quittez, toutes les modifications seront abandonnées.",
+    "comment": "Contenu pour la boîte de dialogue d'avertissement d'alerte incomplète"
+  },
+  "Navbar.AlertCreation.IncompleteAlert.Error": {
+    "value": "Erreur : {0}",
+    "comment": "Contenu d'erreur pour la boîte de dialogue d'avertissement d'alerte incomplète. {0} est l'erreur"
+  },
+  "Navbar.AlertCreation.IncompleteAlert.ExitDiscard": {
+    "value": "Quitter et abandonner",
+    "comment": "Texte pour le bouton de confirmation dans la boîte de dialogue d'avertissement d'alerte incomplète"
+  },
+  "Navbar.AlertCreation.Title": {
+    "value": "{0} alerte",
+    "comment": "Titre dans l'en-tête lors de la création d'alerte. {0} est le type d'alerte"
+  },
+  "Navbar.AlertCreation.UnsavedChanges.Discard": {
+    "value": "Abandonner",
+    "comment": "Texte pour le bouton d'action d'abandon dans la boîte de dialogue d'avertissement de modifications non enregistrées"
+  },
+  "Navbar.AlertCreation.UnsavedChanges.Title": {
+    "value": "Modifications non enregistrées",
+    "comment": "Titre pour la boîte de dialogue d'avertissement de modifications non enregistrées"
+  },
+  "Navbar.AlertCreation.UnsavedChanges.Content": {
+    "value": "Il y a des modifications non enregistrées. Voulez-vous les enregistrer avant de quitter ?",
+    "comment": "Contenu pour la boîte de dialogue d'avertissement de modifications non enregistrées"
+  },
+  "Navbar.Button.ChangePassword": {
+    "value": "Changer le mot de passe",
+    "comment": "Texte du bouton dans le profil utilisateur"
+  },
+  "Navbar.Header.Alerting": {
+    "value": "Alerting ™",
+    "comment": "Élément de menu dans la barre de navigation"
+  },
+  "Navbar.Header.Alerts": {
+    "value": "Alertes",
+    "comment": "Élément de menu dans la barre de navigation"
+  },
+  "Navbar.Header.Inbox": {
+    "value": "Boîte de réception",
+    "comment": "Élément de menu dans la barre de navigation"
+  },
+  "NavigationBlocker.Warning.Title": {
+    "value": "Avertissement",
+    "comment": "Titre de la boîte de dialogue d'avertissement"
+  },
+  "NavigationBlocker.Warning.Content": {
+    "value": "Vous êtes sur le point de quitter cette page et de perdre toutes les modifications non enregistrées. Êtes-vous sûr(e) ?",
+    "comment": "Contenu de la boîte de dialogue d'avertissement"
+  },
+  "Notification.Label.CustomizeNotification": {
+    "value": "Personnaliser la notification",
+    "comment": "Texte du commutateur dans la section des notifications"
+  },
+  "Notification.Label.NotificationSubject": {
+    "value": "Objet de la notification",
+    "comment": "Étiquette d'en-tête dans la section des notifications"
+  },
+  "Notification.Label.Notification": {
+    "value": "Notification",
+    "comment": "Texte d'en-tête dans la section des notifications"
+  },
+  "Page404.Label.BackHome": {
+    "value": "Retour à l'écran d'accueil",
+    "comment": "Texte du bouton dans la page 404"
+  },
+  "Page404.Label.Contents": {
+    "value": "404 - La page que vous avez demandée est introuvable",
+    "comment": "Contenu dans la page 404"
+  },
+  "Privileges.Label.AssignedUsers": {
+    "value": "Utilisateurs assignés",
+    "comment": "Étiquette d'en-tête dans les privilèges"
+  },
+  "Privileges.Label.Edit": {
+    "value": "Modifier",
+    "comment": "Étiquette d'en-tête dans les privilèges"
+  },
+  "Privileges.Label.Privilege": {
+    "value": "Privilège",
+    "comment": "Étiquette d'en-tête dans les privilèges"
+  },
+  "PrivilegesDetails.Label.Privilege": {
+    "value": "Privilège : ",
+    "comment": "Étiquette d'en-tête dans les détails des privilèges"
+  },
+  "RecipientsGroup.Label.Domain": {
+    "value": "Domaine",
+    "comment": "Texte d'en-tête dans les destinataires et groupes"
+  },
+  "RecipientsGroup.Label.FullName": {
+    "value": "Nom complet",
+    "comment": "Texte d'en-tête dans les destinataires et groupes"
+  },
+  "RecipientsGroup.Label.Group": {
+    "value": "Groupe",
+    "comment": "Texte de l'étiquette dans les destinataires et groupes"
+  },
+  "RecipientsGroup.Label.License": {
+    "value": "Licence",
+    "comment": "Texte de l'étiquette dans les destinataires et groupes"
+  },
+  "RecipientsGroup.Label.Name": {
+    "value": "Nom",
+    "comment": "Texte d'en-tête dans les destinataires et groupes"
+  },
+  "RecipientsGroup.Label.Recipients": {
+    "value": "# Destinataires",
+    "comment": "Texte d'en-tête dans les destinataires et groupes"
+  },
+  "RecipientsGroup.Label.Selected": {
+    "value": "Sélectionné",
+    "comment": "Texte de l'étiquette dans les destinataires et groupes"
+  },
+  "RecipientsGroup.Label.User": {
+    "value": "Utilisateur",
+    "comment": "Texte d'en-tête dans les destinataires et groupes"
+  },
+  "RecipientsGroup.Label.Unsubscribed": {
+    "value": "Désabonné",
+    "comment": "Texte de l'étiquette dans les destinataires et groupes"
+  },
+  "Register.Button.SelectCertificates": {
+    "value": "Sélectionner des certificats",
+    "comment": "Libellé du bouton dans le composant d'inscription"
+  },
+  "Register.Label.ClientFile": {
+    "value": "Fichier client",
+    "comment": "Libellé de l'info-bulle dans le composant d'inscription"
+  },
+  "Register.Label.ClientKeyFile": {
+    "value": "Fichier de clé client",
+    "comment": "Libellé de l'info-bulle dans le composant d'inscription"
+  },
+  "Register.Label.Config": {
+    "value": "Configuration",
+    "comment": "Libellé des étapes dans le composant d'inscription"
+  },
+  "Register.Label.Email": {
+    "value": "Email",
+    "comment": "Libellé des étapes dans le composant d'inscription"
+  },
+  "Register.Label.QlikConnection": {
+    "value": "Connexion Qlik",
+    "comment": "Libellé des étapes dans le composant d'inscription"
+  },
+  "Register.Label.SelectAdmin": {
+    "value": "Sélectionner l'administrateur",
+    "comment": "Libellé des étapes dans le composant d'inscription"
+  },
+  "Register.Completion.Content": {
+    "value": "Votre processus d'inscription est terminé",
+    "comment": "Texte de la boîte de dialogue modale dans le composant d'inscription"
+  },
+  "Register.Completion.GoToLogin": {
+    "value": "Aller à la connexion",
+    "comment": "Texte du bouton dans le composant d'inscription"
+  },
+  "Register.Completion.Title": {
+    "value": "Inscription terminée !",
+    "comment": "Texte de la boîte de dialogue modale dans le composant d'inscription"
+  },
+  "Register.Modal.Content": {
+    "value": "Vous êtes sur le point de quitter cette page et de perdre toutes les modifications non enregistrées. Êtes-vous sûr(e) ?",
+    "comment": "Texte de la boîte de dialogue modale dans le composant d'inscription"
+  },
+  "Register.Card.UserName": {
+    "value": "Nom d'utilisateur :",
+    "comment": "Libellé dans l'administration des inscriptions"
+  },
+  "Register.Card.FirstName": {
+    "value": "Prénom :",
+    "comment": "Libellé dans l'administration des inscriptions"
+  },
+  "Register.Card.LastName": {
+    "value": "Nom :",
+    "comment": "Libellé dans l'administration des inscriptions"
+  },
+  "Register.Card.Email": {
+    "value": "Email :",
+    "comment": "Libellé dans l'administration des inscriptions"
+  },
+  "Register.Card.SelectThisUserAsAdmin": {
+    "value": "Sélectionner cet utilisateur comme administrateur",
+    "comment": "Bouton dans l'administration des inscriptions"
+  },
+  "Register.Card.ConfirmEmail": {
+    "value": "Veuillez saisir un email pour confirmer",
+    "comment": "Placeholder dans l'administration des inscriptions"
+  },
+  "Schedule.Label.AddScanTime": {
+    "value": "Ajouter une heure de balayage",
+    "comment": "Libellé du bouton pour ajouter une heure de balayage"
+  },
+  "Schedule.Label.BetweenTimes": {
+    "value": "Entre les heures : ",
+    "comment": "Texte en sous-tête dans l'ordonnancement"
+  },
+  "Schedule.Label.Every": {
+    "value": "Toutes les :",
+    "comment": "Texte en sous-tête dans l'ordonnancement"
+  },
+  "Schedule.Label.DaysOfTheMonth": {
+    "value": "Jours du mois",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.DaysOfTheWeek": {
+    "value": "Jours de la semaine",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.DaysOfTheWeek.Monday": {
+    "value": "Lundi",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.DaysOfTheWeek.Tuesday": {
+    "value": "Mardi",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.DaysOfTheWeek.Wednesday": {
+    "value": "Mercredi",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.DaysOfTheWeek.Thursday": {
+    "value": "Jeudi",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.DaysOfTheWeek.Friday": {
+    "value": "Vendredi",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.DaysOfTheWeek.Saturday": {
+    "value": "Samedi",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.DaysOfTheWeek.Sunday": {
+    "value": "Dimanche",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.EndTime": {
+    "value": "Heure de fin *",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.Hours": {
+    "value": "Heures *",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.HowToTrigger": {
+    "value": "Comment voulez-vous déclencher votre alerte ? *",
+    "comment": "Texte en sous-tête dans l'ordonnancement"
+  },
+  "Schedule.Label.Intervals": {
+    "value": "Intervalles",
+    "comment": "Texte radio dans l'ordonnancement"
+  },
+  "Schedule.Label.Minutes": {
+    "value": "Minutes *",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.OnReload": {
+    "value": "Au rechargement",
+    "comment": "Texte radio dans l'ordonnancement"
+  },
+  "Schedule.Label.OnSchedule": {
+    "value": "Au planning *",
+    "comment": "Texte radio dans l'ordonnancement"
+  },
+  "Schedule.Label.ScanSince": {
+    "value": "Balayer depuis",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.ScanUntil": {
+    "value": "Balayer jusqu'à",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.ScheduleAlertBy": {
+    "value": "Planifier l'alerte par",
+    "comment": "Texte en sous-tête dans l'ordonnancement"
+  },
+  "Schedule.Label.ServerTime": {
+    "value": "Heure du serveur :",
+    "comment": "Libellé pour spécifier l'heure dans le serveur"
+  },
+  "Schedule.Label.StartTime": {
+    "value": "Heure de début *",
+    "comment": "Texte général pour l'heure de début"
+  },
+  "Schedule.Label.TimeToScan": {
+    "value": "Heure de balayage *",
+    "comment": "Libellé de l'en-tête du sélecteur dans l'ordonnancement"
+  },
+  "Schedule.Label.Times": {
+    "value": "Fois",
+    "comment": "Texte radio dans l'ordonnancement"
+  },
+  "Schedule.Label.TriggerNow": {
+    "value": "Déclencher maintenant",
+    "comment": "Texte radio dans l'ordonnancement"
+  },
+  "SelectAdmin.FormControl.SearchBy": {
+    "value": "Rechercher par nom, nom d'utilisateur ou domaine utilisateur",
+    "comment": "Libellé indiquant les options de recherche"
+  },
+  "Share.Groups.TableHeader.DomainUser": {
+    "value": "Utilisateur du domaine",
+    "comment": "En-tête du tableau pour le champ DomainUser"
+  },
+  "Share.Groups.TableHeader.FirstName": {
+    "value": "Prénom",
+    "comment": "En-tête du tableau pour le champ FirstName"
+  },
+  "Share.Groups.TableHeader.LastName": {
+    "value": "Nom de famille",
+    "comment": "En-tête du tableau pour le champ LastName"
+  },
+  "Share.Groups.TableHeader.Name": {
+    "value": "Nom",
+    "comment": "En-tête du tableau pour le champ Name"
+  },
+  "Share.Groups.TableHeader.Recipients": {
+    "value": "# Destinataires",
+    "comment": "En-tête du tableau pour le champ recipients"
+  },
+  "SimpleCard.Label.SpanningTable": {
+    "value": "tableau en expansion",
+    "comment": "Aria Label dans Simple Card"
+  },
+  "Snackbar.Alerts.NotLicensed": {
+    "value": "Votre utilisateur n'a pas de licence Qlik Sense",
+    "comment": "Message d'alerte pour indiquer aux utilisateurs qu'ils n'ont pas de licence Qlik pour créer/éditer des alertes de données"
+  },
+  "Snackbar.Alerts.deleteAlert": {
+    "value": "L'alerte {0} a été supprimée",
+    "comment": "Message d'alerte pour montrer le type d'alerte qui a été supprimé. {0} est le type d'alerte"
+  },
+  "Snackbar.Alerts.deleteAlertFailed": {
+    "value": "L'alerte {0} n'a pas pu être supprimée",
+    "comment": "Message d'alerte pour montrer que l'alerte n'a pas pu être supprimée. {0} est le type d'alerte"
+  },
+  "Snackbar.Alerts.DisableAlert": {
+    "value": "L'alerte a été désactivée",
+    "comment": "Message d'alerte pour montrer l'état activé de l'alerte. {0} est un booléen pour l'état activé"
+  },
+  "Snackbar.Alerts.duplicateAlert": {
+    "value": "Les alertes sélectionnées ont été dupliquées",
+    "comment": "Message d'alerte pour confirmer que l'alerte a été dupliquée."
+  },
+  "Snackbar.Alerts.duplicateAlertError": {
+    "value": "{0} des alertes sélectionnées ont été dupliquées, {1} n'ont pas pu être dupliquées",
+    "comment": "Message d'alerte pour confirmer la duplication réussie ou échouée. {0} est la quantité d'alertes"
+  },
+  "Snackbar.Alerts.EnableAlert": {
+    "value": "L'alerte a été activée",
+    "comment": "Message d'alerte pour montrer l'état activé de l'alerte. {0} est un booléen pour l'état activé"
+  },
+  "Snackbar.Alerts.showMore": {
+    "value": "Affichage de {0} supplémentaires",
+    "comment": "Message d'alerte pour montrer que plus d'alertes ont été chargées. {0} indique la quantité."
+  },
+  "Snackbar.Alerts.triggerAlert": {
+    "value": "L'alerte a été déclenchée. ({0})",
+    "comment": "Message d'alerte pour montrer que l'alerte a été déclenchée. {0} est le nom de l'alerte"
+  },
+  "Snackbar.Alerts.triggerAlertWarn": {
+    "value": "Avertissement : Veuillez activer cette alerte avant de la déclencher. ({0})",
+    "comment": "Message d'alerte pour montrer que l'alerte doit être activée pour être déclenchée. {0} est le nom de l'alerte"
+  },
+  "Snackbar.AlertsDetails.appList": {
+    "value": "Vous avez actualisé avec succès la liste des applications",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbar.AlertsDetails.appObjects": {
+    "value": "Vous avez actualisé avec succès l'objet de l'application",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbar.AlertsDetails.checkDataTable": {
+    "value": "Erreur lors de la requête des données. Vérifiez votre table de données.",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbar.AlertsDetails.createAlert": {
+    "value": "Alerte créée avec succès",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbar.AlertsDetails.checkRules": {
+    "value": "Vérifiez vos règles de condition",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbar.AlertsDetails.clearFiles": {
+    "value": "Le certificat a été supprimé.",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbar.AlertsDetails.errorGettingPreview": {
+    "value": "Une erreur s'est produite lors de l'obtention de l'aperçu de la condition",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbar.AlertsDetails.getObjects": {
+    "value": "Erreur lors de la récupération des objets de l'application. Peut-être n'avez-vous pas accès à cette application ?",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbars.AlertsDetails.GetSystemTask": {
+    "value": "Nous n'avons trouvé aucune tâche pour votre utilisateur. Assurez-vous d'avoir accès à Qlik.",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbar.AlertsDetails.noHistoryForNewAlerts": {
+    "value": "Les conditions d'historique ne seront pas calculées pour les nouvelles alertes",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbar.AlertsDetails.RefreshedApps": {
+    "value": "La liste des applications a été actualisée",
+    "comment": "Message après que la liste des applications Qlik Sense a été forcée à se rafraîchir"
+  },
+  "Snackbar.AlertsDetails.RefreshedObjects": {
+    "value": "La liste des objets a été actualisée pour l'application actuelle",
+    "comment": "Message après que la liste des objets pour une application Qlik Sense a été forcée à se rafraîchir"
+  },
+  "Snackbar.AlertsDetails.updateAlert": {
+    "value": "Alerte mise à jour avec succès",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbar.AlertsDetails.uploadTemplate": {
+    "value": "Modèle téléchargé avec succès.",
+    "comment": "Message d'alerte dans Détails des alertes"
+  },
+  "Snackbar.ChangePassword.changePassword": {
+    "value": "Votre mot de passe a été changé avec succès.",
+    "comment": "Message d'alerte dans Modification du mot de passe"
+  },
+  "Snackbar.ChangePassword.editDeliveryChannel": {
+    "value": "Le canal de livraison a été mis à jour avec succès.",
+    "comment": "Message d'alerte dans Détails des canaux"
+  },
+  "Snackbar.Config.editPingSettings": {
+    "value": "Les paramètres ont été mis à jour avec succès.",
+    "comment": "Message d'alerte dans Config"
+  },
+  "Snackbar.ChannelsDetails.testConnection": {
+    "value": "La connexion par e-mail a réussi.",
+    "comment": "Message d'alerte dans Détails des canaux"
+  },
+  "Snackbar.Devices.disabled": {
+    "value": "Le périphérique a été activé",
+    "comment": "Message d'alerte dans Périphériques."
+  },
+  "Snackbar.Devices.enabled": {
+    "value": "Le périphérique a été désactivé",
+    "comment": "Message d'alerte dans Périphériques."
+  },
+  "Snackbar.Devices.removeDevice": {
+    "value": "Le périphérique a été supprimé.",
+    "comment": "Message d'alerte dans Périphériques."
+  },
+  "Snackbar.Inbox.showMore": {
+    "value": "Affichage de {0} plus",
+    "comment": "Message d'alerte pour montrer que plus d'alertes ont été chargées. {0} indique la quantité."
+  },
+  "Snackbar.License.clearFiles": {
+    "value": "Le certificat a été supprimé.",
+    "comment": "Message d'alerte dans Licences"
+  },
+  "Snackbar.License.editLicense": {
+    "value": "La licence a été mise à jour avec succès.",
+    "comment": "Message d'alerte dans Licences"
+  },
+  "Snackbar.License.uploadLicense": {
+    "value": "La licence a été téléchargée avec succès.",
+    "comment": "Message d'alerte dans Licences"
+  },
+  "Snackbar.Login.sentEmailToGeneratePassword": {
+    "value": "E-mail envoyé pour générer le mot de passe",
+    "comment": "Message d'alerte dans Connexion"
+  },
+  "Snackbar.Login.AppsSyncError": {
+    "value": "Impossible de récupérer la liste des applications depuis Qlik Sense",
+    "comment": "Message en cas d'erreur lors de la connexion en essayant d'obtenir la liste des applications pour un utilisateur"
+  },
+  "Snackbar.Register.adminDataUpdated": {
+    "value": "Données d'administrateur mises à jour",
+    "comment": "Message d'alerte dans Inscription"
+  },
+  "Snackbar.Register.channelSuccessfullyCreated": {
+    "value": "Chaîne créée avec succès.",
+    "comment": "Message d'alerte dans Inscription"
+  },
+  "Snackbar.Register.editDataSource": {
+    "value": "La source de données a été mise à jour avec succès.",
+    "comment": "Message d'alerte dans Inscription"
+  },
+  "Snackbar.Register.editLicense": {
+    "value": "La licence a été mise à jour avec succès.",
+    "comment": "Message d'alerte dans Inscription"
+  },
+  "Snackbar.Register.editPingSettings": {
+    "value": "Les paramètres ont été mis à jour avec succès.",
+    "comment": "Message d'alerte dans Inscription"
+  },
+  "Snackbar.Register.registerSource": {
+    "value": "La connexion avec Qlik a réussi.",
+    "comment": "Message d'alerte dans Inscription"
+  },
+  "Snackbar.Register.registerSourceTest": {
+    "value": "La connexion de test avec Qlik a réussi.",
+    "comment": "Message d'alerte dans Inscription"
+  },
+  "Snackbar.Register.syncQlikUsers": {
+    "value": "Les utilisateurs ont été synchronisés depuis Qlik Sense.",
+    "comment": "Message d'alerte dans Inscription"
+  },
+  "Snackbar.Register.uploadLicense": {
+    "value": "La licence a été téléchargée avec succès.",
+    "comment": "Message d'alerte dans Inscription"
+  },
+  "Snackbar.Register.uploadSourceCerts": {
+    "value": "Certificats téléchargés avec succès.",
+    "comment": "Message d'alerte dans Inscription"
+  },
+  "Snackbar.SourcesDetails.clearSource": {
+    "value": "La source de données a été supprimée.",
+    "comment": "Message d'alerte dans Détails des sources"
+  },
+  "Snackbar.SourcesDetails.editDataSource": {
+    "value": "La source de données a été mise à jour avec succès.",
+    "comment": "Message d'alerte dans Détails des sources"
+  },
+  "Snackbar.SourcesDetails.testSource": {
+    "value": "La connexion avec Qlik a réussi.",
+    "comment": "Message d'alerte dans Détails des sources"
+  },
+  "Snackbar.SourcesDetails.uploadSourceCerts": {
+    "value": "Certificats téléchargés avec succès.",
+    "comment": "Message d'alerte dans Détails des sources"
+  },
+  "Snackbar.Suggestions.acceptSuggestion": {
+    "value": "Partagé avec succès. Vous pouvez maintenant voir cette alerte dans la section Mes alertes",
+    "comment": "Message d'alerte dans Suggestions."
+  },
+  "Snackbar.Suggestions.rejectSuggestion": {
+    "value": "La suggestion a été rejetée.",
+    "comment": "Message d'alerte dans Suggestions."
+  },
+  "Snackbar.Suggestions.showMore": {
+    "value": "Affichage de {0} enregistrements supplémentaires",
+    "comment": "Message d'alerte dans Suggestions. {0} pour afficher la longueur des données."
+  },
+  "Snackbar.Users.deleteUsers": {
+    "value": "Utilisateur(s) supprimé(s) avec succès.",
+    "comment": "Message d'alerte dans Utilisateurs."
+  },
+  "Snackbar.Users.deleteUsersWarning": {
+    "value": "L'utilisateur ne peut pas se supprimer lui-même.",
+    "comment": "Message d'alerte dans Utilisateurs."
+  },
+  "Snackbar.Users.disabled": {
+    "value": "L'utilisateur a été désactivé",
+    "comment": "Message d'alerte dans Utilisateurs."
+  },
+  "Snackbar.Users.enabled": {
+    "value": "L'utilisateur a été activé",
+    "comment": "Message d'alerte dans Utilisateurs."
+  },
+  "Snackbar.Users.showMore": {
+    "value": "Affichage de {0} enregistrements supplémentaires",
+    "comment": "Message d'alerte dans Utilisateurs. {0} pour afficher la longueur des données."
+  },
+  "Snackbar.Users.syncQlikUsers": {
+    "value": "Les utilisateurs ont été synchronisés depuis Qlik Sense.",
+    "comment": "Message d'alerte dans Utilisateurs."
+  },
+  "Snackbar.Users.toggleUser": {
+    "value": "{0} L'utilisateur a été",
+    "comment": "Message d'alerte dans Utilisateurs. {0} indique activé ou désactivé"
+  },
+  "Snackbar.UsersDetails.editUsersDetails": {
+    "value": "L'utilisateur a été mis à jour avec succès.",
+    "comment": "Message d'alerte dans Détails des utilisateurs."
+  },
+  "Snackbar.UsersGroups.deleteUsersGroups": {
+    "value": "Le groupe d'utilisateurs a été supprimé.",
+    "comment": "Message d'alerte dans Détails des utilisateurs."
+  },
+  "Snackbar.UsersGroupsDetails.limit1000": {
+    "value": "Les groupes ne peuvent pas avoir plus de 1000 utilisateurs",
+    "comment": "Message d'alerte dans Détails des groupes d'utilisateurs."
+  },
+  "Snackbar.UsersGroups.disabled": {
+    "value": "Le groupe d'utilisateurs a été désactivé",
+    "comment": "Message d'alerte dans Détails des utilisateurs."
+  },
+  "Snackbar.UsersGroups.enabled": {
+    "value": "Le groupe d'utilisateurs a été activé",
+    "comment": "Message d'alerte dans Détails des utilisateurs."
+  },
+  "Snackbar.UsersGroups.showMore": {
+    "value": "Affichage de {0} enregistrements supplémentaires",
+    "comment": "Message d'alerte dans Détails des utilisateurs. {0} pour afficher la longueur des données."
+  },
+  "Snackbar.UsersGroupsDetails.editUsersGroupsDetails": {
+    "value": "Le groupe d'utilisateurs a été mis à jour avec succès.",
+    "comment": "Message d'alerte dans Détails des groupes d'utilisateurs."
+  },
+  "Snackbar.UsersGroupsDetails.ErrorNameRequired": {
+    "value": "Le nom est requis"
+  },
+  "Snackbar.UsersLicensesDetails.editUsersLicensesDetails": {
+    "value": "L'allocation de licence d'utilisateur a été mise à jour avec succès.",
+    "comment": "Message d'alerte dans Détails des licences d'utilisateurs."
+  },
+  "Snackbar.UsersPrivilegesDetails.editUsersPrivilegesDetails": {
+    "value": "Les privilèges de l'utilisateur ont été mis à jour avec succès.",
+    "comment": "Message d'alerte dans Détails des privilèges d'utilisateurs."
+  },
+  "Sources.Label.DataSourceHost": {
+    "value": "Nom d'hôte Qlik Sense",
+    "comment": "En-tête de colonne de tableau dans la page des sources"
+  },
+  "Sources.Label.Source": {
+    "value": "Source",
+    "comment": "En-tête de colonne de tableau dans la page des sources"
+  },
+  "SourcesDetails.Button.SelectCertificates": {
+    "value": "Sélectionner des certificats",
+    "comment": "Texte du bouton dans les détails des sources"
+  },
+  "SourcesDetails.Label.AliasHostName": {
+    "value": "Nom d'hôte alias",
+    "comment": "Étiquette dans les détails des sources"
+  },
+  "SourcesDetails.HelperText.AliasHostName": {
+    "value": "URL pour que les utilisateurs accèdent à Qlik Sense",
+    "comment": "Étiquette dans les détails des sources"
+  },
+  "SourcesDetails.HelperText.HostName": {
+    "value": "par exemple qlikserver.domain.com ou 123.123.123.123",
+    "comment": "Exemple de nom d'hôte"
+  },
+  "SourcesDetails.HelperText.HttpsPort": {
+    "value": "Port par défaut 443",
+    "comment": "Exemple de port https"
+  },
+  "SourcesDetails.HelperText.QpsPort": {
+    "value": "Port par défaut 4243",
+    "comment": "Valeur de port par défaut pour QpsPort"
+  },
+  "SourcesDetails.HelperText.QrsPort": {
+    "value": "Port par défaut 4242",
+    "comment": "Valeur de port par défaut pour QrsPort"
+  },
+  "SourcesDetails.HelperText.SessionCookieName": {
+    "value": "(facultatif)",
+    "comment": "Valeur facultative pour le nom du cookie de session"
+  },
+  "SourcesDetails.HelperText.VirtualProxy": {
+    "value": "(facultatif)",
+    "comment": "Étiquette facultative pour le proxy virtuel"
+  },
+  "SourcesDetails.Label.ConnectAsUsername": {
+    "value": "Se connecter en tant qu'identifiant utilisateur",
+    "comment": "Étiquette dans les détails des sources"
+  },
+  "SourcesDetails.Label.HostName": {
+    "value": "Nom d'hôte Qlik Sense",
+    "comment": "Étiquette dans les détails des sources"
+  },
+  "SourcesDetails.Label.ListenPort": {
+    "value": "Port d'écoute du service Qlik Sense HTTPS",
+    "comment": "Étiquette dans les détails des sources"
+  },
+  "SourcesDetails.Label.RepoServiceApiListenPort": {
+    "value": "Port d'écoute de l'API de repository Qlik",
+    "comment": "Étiquette dans les détails des sources"
+  },
+  "SourcesDetails.Label.RestApiListenPort": {
+    "value": "Port d'écoute de l'API REST de Qlik",
+    "comment": "Étiquette dans les détails des sources"
+  },
+  "SourcesDetails.Label.SessionCookieHeaderName": {
+    "value": "Nom d'en-tête du cookie de session",
+    "comment": "Étiquette dans les détails des sources"
+  },
+  "SourcesDetails.Label.UserDirectory": {
+    "value": "Se connecter en tant que répertoire d'utilisateurs",
+    "comment": "Étiquette dans les détails des sources"
+  },
+  "SourcesDetails.Label.VirtualProxyPrefix": {
+    "value": "Préfixe du proxy virtuel",
+    "comment": "Étiquette dans les détails des sources"
+  },
+  "SourcesDetails.Modal.CancelContent": {
+    "value": "Vous êtes sur le point de quitter cette page et de perdre toutes les modifications non enregistrées. Êtes-vous sûr?",
+    "comment": "Texte pour vérifier si l'utilisateur souhaite quitter la page"
+  },
+  "SourcesDetails.Tooltip.ClientFile": {
+    "value": "Fichier client",
+    "comment": "Texte du bouton dans les détails des sources"
+  },
+  "SourcesDetails.Tooltip.ClientKeyFile": {
+    "value": "Fichier de clé client",
+    "comment": "Texte du bouton dans les détails des sources"
+  },
+  "Suggestions.Button.ShowMore": {
+    "value": "Afficher plus",
+    "comment": "Texte du bouton Afficher plus"
+  },
+  "Suggestions.Label.AlertNames": {
+    "value": "Noms d'alerte",
+    "comment": "En-tête de colonne de tableau dans la page des suggestions"
+  },
+  "Suggestions.Label.SharedAt": {
+    "value": "Partagé à",
+    "comment": "En-tête de colonne de tableau dans la page des suggestions"
+  },
+  "Suggestions.Label.SharedBy": {
+    "value": "Partagé par l'utilisateur",
+    "comment": "En-tête de colonne de tableau dans la page des suggestions"
+  },
+  "Suggestions.Label.FullName": {
+    "value": "Partagé par le nom complet",
+    "comment": "En-tête de colonne de tableau dans la page des suggestions"
+  },
+  "System.Checkbox.Aborted": {
+    "value": "Abandonné",
+    "comment": "Texte de la case à cocher dans le système"
+  },
+  "System.Checkbox.Failed": {
+    "value": "Échoué",
+    "comment": "Texte de la case à cocher dans le système"
+  },
+  "System.Checkbox.InProgress": {
+    "value": "En cours",
+    "comment": "Texte de la case à cocher dans le système"
+  },
+  "System.Checkbox.Success": {
+    "value": "Succès",
+    "comment": "Texte de la case à cocher dans le système"
+  },
+  "System.Checkbox.SystemAborted": {
+    "value": "Abandonné par le système",
+    "comment": "Texte de la case à cocher dans le système"
+  },
+  "System.Label.ManualSelection": {
+    "value": "Sélectionner les tâches manuellement",
+    "comment": "Texte de la radio dans les alertes système"
+  },
+  "System.Label.Operator": {
+    "value": "Opérateur",
+    "comment": "Texte d'étiquette dans la sélection de règle de tâche du système"
+  },
+  "System.Label.Operator.all": {
+    "value": "Tous",
+    "comment": ""
+  },
+  "System.Label.Operator.EndsWith": {
+    "value": "Se termine par",
+    "comment": ""
+  },
+  "System.Label.Operator.Includes": {
+    "value": "Inclut",
+    "comment": ""
+  },
+  "System.Label.Operator.StartsWith": {
+    "value": "Commence par",
+    "comment": ""
+  },
+  "System.Label.Rules": {
+    "value": "Chaîne",
+    "comment": "Texte dans le sélecteur de règles de tâche d'alertes système"
+  },
+  "System.Label.RuleSelection": {
+    "value": "Sélectionner les tâches par règle",
+    "comment": "Texte de la radio dans les alertes système"
+  },
+  "System.Textfield.InProgressForSeconds": {
+    "value": "En cours pendant (secondes)",
+    "comment": "Champ de texte dans le système"
+  },
+  "Unsubscribe.String.SuccessfullyUnsubscribed": {
+    "value": "Désinscription réussie",
+    "comment": "Texte dans la page de désinscription"
+  },
+  "Unsubscribe.String.ClosePage": {
+    "value": "Vous pouvez maintenant fermer cette page.",
+    "comment": "Texte dans la page de désinscription"
+  },
+  "Uploader.Label.ClearFiles": {
+    "value": "Effacer le(s) fichier(s)",
+    "comment": "Texte du bouton dans le chargeur"
+  },
+  "Uploader.Label.Files": {
+    "value": "fichiers",
+    "comment": "Texte du bouton dans le chargeur"
+  },
+  "Uploader.Label.Inserted": {
+    "value": "Inséré {0}",
+    "comment": "Texte d'étiquette dans le chargeur"
+  },
+  "Uploader.Label.IsRequired": {
+    "value": "{0} est requis",
+    "comment": "Texte d'étiquette dans le chargeur"
+  },
+  "Uploader.Label.UploadFiles": {
+    "value": "Télécharger le(s) fichier(s)",
+    "comment": "Texte de l'info-bulle dans le chargeur"
+  },
+  "UserManagement.MenuItem.LicenseAllocation": {
+    "value": "Allocation de licence",
+    "comment": "Élément de menu dans la gestion des utilisateurs"
+  },
+  "UserManagement.MenuItem.UserPrivileges": {
+    "value": "Privilèges utilisateur",
+    "comment": "Élément de menu dans la gestion des utilisateurs"
+  },
+  "UserManagement.MenuItem.UserGroups": {
+    "value": "Groupes d'utilisateurs",
+    "comment": "Élément de menu dans la gestion des utilisateurs"
+  },
+  "UserManagement.MenuItem.Users": {
+    "value": "Utilisateurs",
+    "comment": "Élément de menu dans la gestion des utilisateurs"
+  },
+  "UserMenu.MenuItem.About": {
+    "value": "À propos",
+    "comment": "Élément de menu dans le menu utilisateur"
+  },
+  "UserMenu.MenuItem.Devices": {
+    "value": "Appareils",
+    "comment": "Élément de menu dans le menu utilisateur"
+  },
+  "UserMenu.MenuItem.Logout": {
+    "value": "Déconnexion",
+    "comment": "Élément de menu dans le menu utilisateur"
+  },
+  "UserMenu.MenuItem.Suggestions": {
+    "value": "Suggestions",
+    "comment": "Élément de menu dans le menu utilisateur"
+  },
+  "UserMenu.MenuItem.UserProfile": {
+    "value": "Profil utilisateur",
+    "comment": "Élément de menu dans le menu utilisateur"
+  },
+  "UserProfile.Name": {
+    "value": "Nom",
+    "comment": "Section Nom dans le profil utilisateur"
+  },
+  "UserProfile.UserName": {
+    "value": "Nom d'utilisateur",
+    "comment": "Section Nom d'utilisateur dans le profil utilisateur"
+  },
+  "UserProfile.Role": {
+    "value": "Rôle",
+    "comment": "Section Rôle dans le profil utilisateur"
+  },
+  "UserProfile.LicenseType": {
+    "value": "Type de licence",
+    "comment": "Section Type de licence dans le profil utilisateur"
+  },
+  "UserProfile.Modal.UserProfile": {
+    "value": "Profil utilisateur",
+    "comment": "Texte d'en-tête du modal dans le profil utilisateur"
+  },
+  "Users.Button.SyncWithQlik": {
+    "value": "Synchroniser avec Qlik",
+    "comment": "Texte du bouton dans Utilisateurs"
+  },
+  "Users.Button.Edit": {
+    "value": "Modifier",
+    "comment": "Texte du bouton dans Utilisateurs"
+  },
+  "Users.DataHandler.Admin": {
+    "value": "Admin",
+    "comment": "Valeur Admin pour le rôle"
+  },
+  "Users.DataHandler.User": {
+    "value": "Utilisateur",
+    "comment": "Valeur Utilisateur pour le rôle"
+  },
+  "Users.Label.Domain": {
+    "value": "Domaine",
+    "comment": "Texte d'en-tête dans Utilisateurs"
+  },
+  "Users.Label.Email": {
+    "value": "E-mail",
+    "comment": "Texte d'en-tête dans Utilisateurs"
+  },
+  "Users.Label.Enabled": {
+    "value": "Activé",
+    "comment": "Texte d'en-tête dans Utilisateurs"
+  },
+  "Users.Label.FirstName": {
+    "value": "Prénom",
+    "comment": "Texte d'en-tête dans Utilisateurs"
+  },
+  "Users.Label.LastName": {
+    "value": "Nom de famille",
+    "comment": "Texte d'en-tête dans Utilisateurs"
+  },
+  "Users.Label.License": {
+    "value": "Licence",
+    "comment": "Texte d'en-tête dans Utilisateurs"
+  },
+  "Users.Label.Role": {
+    "value": "Rôle",
+    "comment": "Texte d'en-tête dans Utilisateurs"
+  },
+  "Users.Label.UserName": {
+    "value": "Nom d'utilisateur",
+    "comment": "Texte d'en-tête dans Utilisateurs"
+  },
+  "Users.Modal.ContentDelete": {
+    "value": "Êtes-vous sûr de vouloir supprimer?",
+    "comment": "Contenu du modal dans Utilisateurs"
+  },
+  "Users.Modal.ContentImport": {
+    "value": "Vous êtes sur le point de synchroniser les utilisateurs avec Qlik Sense. Ce processus en arrière-plan peut prendre quelques minutes pour se terminer.",
+    "comment": "Contenu du modal dans Utilisateurs"
+  },
+  "Users.Modal.ImportUsers": {
+    "value": "Synchroniser les utilisateurs avec Qlik",
+    "comment": "Contenu du modal dans Utilisateurs"
+  },
+  "UsersDetails.Label.Administrator": {
+    "value": "Administrateur",
+    "comment": "Texte de la radio dans Détails utilisateur"
+  },
+  "UsersDetails.Label.Domain": {
+    "value": "Domaine",
+    "comment": "Texte de l'étiquette dans Détails utilisateur"
+  },
+  "UsersDetails.Label.EmailId": {
+    "value": "Identifiant e-mail *",
+    "comment": "Texte de l'étiquette dans Détails utilisateur"
+  },
+  "UsersDetails.Label.FirstName": {
+    "value": "Prénom",
+    "comment": "Texte de l'étiquette dans Détails utilisateur"
+  },
+  "UsersDetails.Label.LastName": {
+    "value": "Nom de famille",
+    "comment": "Texte de l'étiquette dans Détails utilisateur"
+  },
+  "UsersDetails.Label.User": {
+    "value": "Utilisateur",
+    "comment": "Texte de la radio dans Détails utilisateur"
+  },
+  "UsersDetails.Label.UserName": {
+    "value": "Nom d'utilisateur",
+    "comment": "Texte de l'étiquette dans Détails utilisateur"
+  },
+  "UsersDetails.Modal.CancelContent": {
+    "value": "Vous êtes sur le point de quitter cette page et de perdre toutes les modifications non enregistrées. Êtes-vous sûr?",
+    "comment": "Avertissement à l'utilisateur qu'il quitte la page Détails utilisateur"
+  },
+  "UsersGroups.Button.ShowMore": {
+    "value": "Afficher plus",
+    "comment": "Texte pour le bouton Afficher plus"
+  },
+  "UsersGroups.Button.AssignAll": {
+    "value": "Assigner tout",
+    "comment": "Libellé sur le bouton assigner tout dans les détails des groupes d'utilisateurs"
+  },
+  "UsersGroups.Button.UnAssignAll": {
+    "value": " Désassigner tout",
+    "comment": "Libellé sur le bouton désassigner tout dans les détails des groupes d'utilisateurs"
+  },
+  "UsersGroups.Label.GroupName": {
+    "value": "Nom du groupe",
+    "comment": "Texte de l'étiquette dans Groupes d'utilisateurs"
+  },
+  "UsersGroups.Label.Users": {
+    "value": "Utilisateurs",
+    "comment": "Texte de l'étiquette dans Groupes d'utilisateurs"
+  },
+  "UsersGroups.Label.CreatedAt": {
+    "value": "Créé",
+    "comment": "Texte de l'étiquette dans Groupes d'utilisateurs"
+  },
+  "UsersGroups.Label.Enabled": {
+    "value": "Activé",
+    "comment": "Texte de l'étiquette dans Groupes d'utilisateurs"
+  },
+  "UsersGroups.Modal.AssignAll.Title": {
+    "value": "Êtes-vous sûr de vouloir attribuer tous les utilisateurs?",
+    "comment": "Titre dans le modal pour attribuer tous les utilisateurs à une autorisation spécifique"
+  },
+  "UsersGroups.Modal.AssignAll.Content": {
+    "value": "Cela attribuera tous vos utilisateurs non attribués à cette autorisation. Cela peut prendre quelques secondes.",
+    "comment": "Contenu dans le modal pour attribuer tous les utilisateurs à une autorisation spécifique"
+  },
+  "UsersGroups.Modal.UnAssignAll.Title": {
+    "value": "Êtes-vous sûr de vouloir désattribuer tous les utilisateurs?",
+    "comment": "Titre dans le modal pour désattribuer tous les utilisateurs à une autorisation spécifique"
+  },
+  "UsersGroups.Modal.UnAssignAll.Content": {
+    "value": "Cela désattribuera tous vos utilisateurs attribués de cette autorisation. Cela peut prendre quelques secondes.",
+    "comment": "Contenu dans le modal pour désattribuer tous les utilisateurs à une autorisation spécifique"
+  },
+  "UserGroupDetails.Label.GroupName": {
+    "value": "Nom du groupe",
+    "comment": "Étiquette pour le champ de saisie du nom du groupe"
+  },
+  "UsersGroupsDetails.Modal.CancelContent": {
+    "value": "Vous êtes sur le point de quitter cette page et de perdre toutes les modifications non enregistrées. Êtes-vous sûr?",
+    "comment": "Avertissement à l'utilisateur qu'il quitte la page de modification des groupes d'utilisateurs"
+  },
+  "UsersPrivilegesDetails.Button.AssignAll": {
+    "value": "Attribuer tout",
+    "comment": "Libellé sur le bouton attribuer tout dans les détails des privilèges d'utilisateur"
+  },
+  "UsersPrivilegesDetails.Button.UnAssignAll": {
+    "value": " Désattribuer tout",
+    "comment": "Libellé sur le bouton désattribuer tout dans les détails des privilèges d'utilisateur"
+  },
+  "UsersPrivilegesDetails.Modal.AssignAll.Title": {
+    "value": "Êtes-vous sûr de vouloir attribuer tous les utilisateurs?",
+    "comment": "Titre dans le modal pour attribuer tous les utilisateurs à une autorisation spécifique"
+  },
+  "UsersPrivilegesDetails.Modal.AssignAll.Content": {
+    "value": "Cela attribuera tous vos utilisateurs non attribués à cette autorisation. Cela peut prendre quelques secondes.",
+    "comment": "Contenu dans le modal pour attribuer tous les utilisateurs à une autorisation spécifique"
+  },
+  "UsersPrivilegesDetails.Modal.CancelContent": {
+    "value": "Vous êtes sur le point de quitter cette page et de perdre toutes les modifications non enregistrées. Êtes-vous sûr?",
+    "comment": "Avertissement à l'utilisateur qu'il quitte la page de modification des privilèges d'utilisateur"
+  },
+  "UsersPrivilegesDetails.Modal.UnAssignAll.Title": {
+    "value": "Êtes-vous sûr de vouloir désattribuer tous les utilisateurs?",
+    "comment": "Titre dans le modal pour désattribuer tous les utilisateurs à une autorisation spécifique"
+  },
+  "UsersPrivilegesDetails.Modal.UnAssignAll.Content": {
+    "value": "Cela désattribuera tous vos utilisateurs attribués de cette autorisation. Cela peut prendre quelques secondes.",
+    "comment": "Contenu dans le modal pour désattribuer tous les utilisateurs à une autorisation spécifique"
+  },
+  "UserProfile.TableCell.Administrator": {
+    "value": "Administrateur",
+    "comment": "Rôle d'administrateur de l'utilisateur tel qu'affiché dans le profil utilisateur"
+  },
+  "UserProfile.TableCell.None": {
+    "value": "Aucun",
+    "comment": "Texte à afficher lorsque l'utilisateur n'a pas de licence"
+  },
+  "UserProfile.TableCell.User": {
+    "value": "Utilisateur",
+    "comment": "Rôle d'utilisateur de l'utilisateur tel qu'affiché dans le profil utilisateur"
+  },
+  "UserMenu.UserProfile": {
+    "value": "Profil utilisateur",
+    "comment": "Étiquette pour le lien du profil utilisateur"
+  },
+  "UserMenu.UserDevices": {
+    "value": "Appareils de l'utilisateur",
+    "comment": "Étiquette pour le lien des appareils de l'utilisateur"
+  },
+  "UserMenu.About": {
+    "value": "À propos",
+    "comment": "Étiquette pour le lien À propos"
+  },
+  "UserMenu.Suggestions": {
+    "value": "Suggestions",
+    "comment": "Étiquette pour le lien des suggestions"
+  }
+}

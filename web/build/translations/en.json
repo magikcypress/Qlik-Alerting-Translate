@@ -1,0 +1,2445 @@
+{
+  "About.Link.Qlik": {
+    "value": "https://www.qlik.com/",
+    "comment": "Link to Qlik website"
+  },
+  "Admin.Dropdown.Admin": {
+    "value": "Admin",
+    "comment": "Header item of Admin dropdown"
+  },
+  "Admin.MenuItem.Channels": {
+    "value": "Channels",
+    "comment": "Menu item in Admin dropdown"
+  },
+  "Admin.MenuItem.Config": {
+    "value": "Config",
+    "comment": "Menu item in Admin dropdown"
+  },
+  "Admin.MenuItem.Sources": {
+    "value": "Sources",
+    "comment": "Menu item in Admin dropdown"
+  },
+  "Admin.MenuItem.UserManagement": {
+    "value": "User management",
+    "comment": "Menu item in Admin dropdown"
+  },
+  "About.Button.About": {
+    "value": "About",
+    "comment": "Button text to change page body to About"
+  },
+  "About.Button.LicensePDF": {
+    "value": "Download license as PDF",
+    "comment": "Button text to Download PDF"
+  },
+  "About.Button.ThirdParty": {
+    "value": "Third party software",
+    "comment": "Button text to change page body to Third Party Software"
+  },
+  "About.Link.Help": {
+    "value": "https://help.qlik.com/en-US/alerting/November2020",
+    "comment": "Help link text for user to navigate to Help site"
+  },
+  "About.Text.CompanyDetails": {
+    "value": "© 1993-2020 QlikTech International AB",
+    "comment": "Company name and dates"
+  },
+  "About.Text.Help": {
+    "value": "For help go to ",
+    "comment": "Text to introduce help link"
+  },
+  "About.Text.QlikAlertingRelease": {
+    "value": "Qlik Alerting November 2020",
+    "comment": "Text in About Page"
+  },
+  "About.Text.ThirdPartyTitle": {
+    "value": "Third party software",
+    "comment": "Third Party Software Title"
+  },
+  "About.Text.ThirdParty": {
+    "value": "The following list shows all third party software and licenses used in Qlik Alerting. All are vital parts of Qlik Alerting.",
+    "comment": "Third Parth Software content"
+  },
+  "About.Text.Version": {
+    "value": "Version number: 1.3.0",
+    "comment": "Text in About Page"
+  },
+  "Alerts.Button.Create": {
+    "value": "Create new",
+    "comment": "Button label to create a new alert table header in the Alerts page"
+  },
+  "Alerts.Dropdown.MyAlerts": {
+    "value": "My alerts",
+    "comment": "Label for dropdown option in table header in the Alerts page"
+  },
+  "Alerts.Dropdown.AllAlerts": {
+    "value": "All alerts",
+    "comment": "Label for dropdown option in table header in the Alerts page"
+  },
+  "Alerts.Label.AllAlerts": {
+    "value": "All alerts",
+    "comment": "Radio text in Alerts"
+  },
+  "Alerts.Label.Application": {
+    "value": "Application",
+    "comment": "Table column header in Alerts"
+  },
+  "Alerts.Label.BroadcastNotification": {
+    "value": "Broadcast notification",
+    "comment": "Tab in Alerts"
+  },
+  "Alerts.Label.UpdatedAt": {
+    "value": "Updated",
+    "comment": "Table column header in Alerts"
+  },
+  "Alerts.Label.DataAlerts": {
+    "value": "Data alerts",
+    "comment": "Tab in Alerts"
+  },
+  "Alerts.Label.Description": {
+    "value": "Description",
+    "comment": "Table column header in Alerts"
+  },
+  "Alerts.Label.Enabled": {
+    "value": "Enabled",
+    "comment": "Table column header in Alerts"
+  },
+  "Alerts.Label.MyAlerts": {
+    "value": "My alerts",
+    "comment": "Radio text in Alerts"
+  },
+  "Alerts.Label.Name": {
+    "value": "Name",
+    "comment": "Table column header in Alerts"
+  },
+  "AlertsDetails.DataHandler.Aborted": {
+    "value":"Aborted",
+    "comment": "Aborted value for last"
+  },
+  "AlertsDetails.DataHandler.Application": {
+    "value":"Application is required",
+    "comment": "Warning for no application"
+  },
+  "AlertsDetails.DataHandler.AppReload": {
+    "value":"App reload",
+    "comment": "App reload value for type"
+  },
+  "AlertsDetails.DataHandler.AlertName": {
+    "value":"Alert name is required",
+    "comment": "Warning for no alert name"
+  },
+  "AlertsDetails.DataHandler.Channel": {
+    "value":"At least one channel is required",
+    "comment": "Warning for no channels"
+  },
+  "AlertsDetails.DataHandler.Column": {
+    "value":"At least one column is required",
+    "comment": "Warning for no columns"
+  },
+  "AlertsDetails.DataHandler.Condition": {
+    "value":"At least one condition is required",
+    "comment": "Warning for no conditions"
+  },
+  "AlertsDetails.DataHandler.ConditionRule": {
+    "value":"At least one condition rule is required",
+    "comment": "Warning for no condition rule"
+  },
+  "AlertsDetails.DataHandler.EventType": {
+    "value":"At least one event type is required",
+    "comment": "Warning for no event type"
+  },
+  "AlertsDetails.DataHandler.Failed": {
+    "value":"Failed",
+    "comment": "Failed value for last"
+  },
+  "AlertsDetails.DataHandler.InProgress": {
+    "value":"In progress",
+    "comment": "In Progress value for last"
+  },
+  "AlertsDetails.DataHandler.Interval": {
+    "value":"Interval",
+    "comment": "Interval value for type"
+  },
+  "AlertsDetails.DataHandler.MySheets": {
+    "value":"My sheets",
+    "comment": "My sheets value for each.status"
+  },
+  "AlertsDetails.DataHandler.NeverStarted": {
+    "value":"Never started",
+    "comment": "Never Started value for last"
+  },
+  "AlertsDetails.DataHandler.NotificationSubject": {
+    "value":"Notification subject is required",
+    "comment": "Warning for no notification subject"
+  },
+  "AlertsDetails.DataHandler.NotificaitonBody": {
+    "value":"Notification body is required",
+    "comment": "Warning for no notification body"
+  },
+  "AlertsDetails.DataHandler.Other": {
+    "value":"Other",
+    "comment": "Other value for type"
+  },
+  "AlertsDetails.DataHandler.ProgressValue": {
+    "value":"Minimum value for in progress is 30 seconds",
+    "comment": "Warning for minimum value in Progress"
+  },
+  "AlertsDetails.DataHandler.Public": {
+    "value":"Public",
+    "comment": "Public value for each.status"
+  },
+  "AlertsDetails.DataHandler.Shared": {
+    "value":"Shared",
+    "comment": "Shared value for each.status"
+  },
+  "AlertsDetails.DataHandler.Sheet": {
+    "value":"Sheet is required",
+    "comment": "Warning for no sheet"
+  },
+  "AlertsDetails.DataHandler.SomeConditions": {
+    "value":"Some conditions are not valid",
+    "comment": "Warning for invalid conditions"
+  },
+  "AlertsDetails.DataHandler.Success": {
+    "value":"Success",
+    "comment": "Success value for last"
+  },
+  "AlertsDetails.DataHandler.SystemAborted": {
+    "value":"System aborted",
+    "comment": "System aborted value for last"
+  },
+  "AlertsDetails.DataHandler.Task": {
+    "value":"At least one task is required",
+    "comment": "Warning for no task"
+  },
+  "AlertsDetails.DataHandler.Time": {
+    "value":"Time",
+    "comment": "Time value for type"
+  },
+  "AlertsDetails.DataHandler.Unknown": {
+    "value":"Unknown",
+    "comment": "Unknown value for last"
+  },
+  "AlertsDetails.Label.Optional": {
+    "value": "(optional)",
+    "comment": "Label to signify an optional field"
+  },
+  "Alerts.Label.Owner": {
+    "value": "Owner",
+    "comment": "Table column header in Alerts"
+  },
+  "Alerts.Label.SystemAlerts": {
+    "value": "System alerts",
+    "comment": "Tab in Alerts"
+  },
+  "Alerts.Modal.DeleteContent": {
+    "value": "Are you sure you want to delete?",
+    "comment": "Modal warning before delete content"
+  },
+  "Alerts.Modal.DuplicateContent": {
+    "value": "Are you sure you want to duplicate?",
+    "content": "Modal warning before duplicated content"
+  },
+  "Alerts.Modal.TriggerContent": {
+    "value": "Are you sure you want to trigger the selected alerts? WARNING: Disabled alerts won't trigger.",
+    "content": "Modal warning before triggered content"
+  },
+  "AlertsDetails.Label.General": {
+    "value": "General",
+    "comment": "Label for the General section of alert details"
+  },
+  "AlertsDetails.Label.Email": {
+    "value":"Email",
+    "comment": "Email value for channels"
+  },
+  "AlertsDetails.Label.Mobile": {
+    "value":"Mobile",
+    "comment": "Mobile value for channels"
+  },
+  "AlertsDetails.Label.Aggregation": {
+    "value": "Aggregation",
+    "comment": "General text for Aggregation"
+  },
+  "AlertsDetails.Label.AlertDescription": {
+    "value": "Alert description",
+    "comment": "Field header text in Alert Details"
+  },
+  "AlertsDetails.Label.AlertTitle": {
+    "value": "Alert title",
+    "comment": "Field header text in Alert Details"
+  },
+  "AlertsDetails.Label.ApplicationName": {
+    "value": "Application name",
+    "comment": "Table header text in System Alerts Details"
+  },
+  "AlertsDetails.Label.Duration(seconds)": {
+    "value": "Duration (seconds)",
+    "comment": "Table header text in System Alerts Details"
+  },
+  "AlertsDetails.Label.Condition": {
+    "value": "Condition",
+    "comment": "General text for Condition"
+  },
+  "AlertsDetails.Label.DataTable": {
+    "value": "Data",
+    "comment": "General text for Data Table"
+  },
+  "AlertsDetails.Label.Distribution": {
+    "value": "Distribution",
+    "comment": "General text for Distribution"
+  },
+  "AlertsDetails.Label.EventType": {
+    "value": "Event type",
+    "comment": "Subheader text in System Alert Detals"
+  },
+  "AlertsDetails.Label.HtmlTemplate": {
+    "value": "HTML template",
+    "comment": "General text for HTML Template"
+  },
+  "AlertsDetails.Label.Last": {
+    "value": "Last",
+    "comment": "General text for Last"
+  },
+  "AlertsDetails.Label.LastReload": {
+    "value": "Last reload",
+    "comment": "Table header text in System Alerts Details"
+  },
+  "AlertsDetails.Label.Notification": {
+    "value": "Notification",
+    "comment": "General text for Notification"
+  },
+  "AlertsDetails.Label.Schedule": {
+    "value": "Schedule",
+    "comment": "General text for Schedule"
+  },
+  "AlertsDetails.Label.SelectAll": {
+    "value": "Select all",
+    "comment": "Button text in System Alerts Details"
+  },
+  "AlertsDetails.Label.Selected": {
+    "value": "Selected",
+    "comment": "Info text in System Alerts Details"
+  },
+  "AlertsDetails.Label.System": {
+    "value": "System",
+    "comment": "Stepper text in System Alerts"
+  },
+  "AlertsDetails.Label.Task": {
+    "value": "Task",
+    "comment": "Table header text in System Alerts Details"
+  },
+  "AlertsDetails.Label.TaskSelection": {
+    "value":  "Select the specific tasks in the table below",
+    "comment": "Subheader text in System Alerts Details"
+  },
+  "AlertsDetails.Label.RuleSelection": {
+    "value":  "Use a string based rule to dynamically pick the tasks to monitor. This will also pick from any new tasks created",
+    "comment": "Subheader text in System Alerts Details"
+  },
+  "AlertsDetails.Label.UnselectAll": {
+    "value": "Unselect All",
+    "comment": "Button text in System Alerts Details"
+  },
+  "AlertsDetails.Label.Preview.FirstTenRows": {
+    "value": "(first ten rows)",
+    "comment": "Secondary text for preview header"
+  },
+  "AlertsDetails.Label.Frequency.Every": {
+    "value": "Every time",
+    "comment": "Every time for frequency labels"
+  },
+  "AlertsDetails.Label.Frequency.Once": {
+    "value": "Only once",
+    "comment": "Only once for frequency labels"
+  },
+  "AlertsDetails.Label.Frequency.Day": {
+    "value": "Only the first each day",
+    "comment": "First of each day for frequency labels"
+  },
+  "AlertsDetails.Label.Frequency.Hour": {
+    "value": "Only the first each hour",
+    "comment": "First of each hour for frequency labels"
+  },
+  "AlertsDetails.Label.Frequency.Month": {
+    "value": "Only the first each month",
+    "comment": "First of each month for frequency labels"
+  },
+  "AlertsDetails.Label.Frequency.Week": {
+    "value": "Only the first each week",
+    "comment": "First of each week for frequency labels"
+  },
+  "AlertsDetails.Schedule.Title": {
+    "value": "(first ten rows)",
+    "comment": "Title for the sc"
+  },
+  "AlertsDetails.Schedule.Description": {
+    "value": "Customize when to evaluate the condition.",
+    "comment": "Description for the Schedule step in alert creation"
+  },
+  "AlertsDetails.Schedule.Broadcast.Description": {
+    "value": "Customize when to send broadcast notifications.",
+    "comment": "Description for the Schedule step in alert creation for broadcast alerts"
+  },
+  "AlertsDetails.Distribution.PublishBookmark": {
+    "value": "Your bookmark will not be available for every user. Do you want to make it public?",
+    "comment": "Description for publish bookmark in managed shared alert"
+  },
+  "Snackbar.AlertsDetails.PublishedBookmark": {
+    "value": "Your bookmark has been succesfully published",
+    "comment": "Snackbar message after bookmark is published correctly"
+  },
+  "AlertsDetails.Distribution.Description": {
+    "value": "Define where, when, and how the notification will be sent.",
+    "comment": "Description for the Distribution step in alert creation"
+  },
+  "AlertsDetails.Notification.Sheet.Title": {
+    "value": "Link back to the Qlik Sense app",
+    "comment": "Title for the sheet input section in the Notification step in alert creation"
+  },
+  "AlertsDetails.Notification.Sheet.Description": {
+    "value": "The notification will include a hyperlink to Qlik Sense. Select which sheet it should link to.",
+    "comment": "Description for the sheet input section in the Notification step in alert creation"
+  },
+  "AlertsDetails.Notification.Custom.Title": {
+    "value": "Email notification template",
+    "comment": "Title for the custom email template section in the Notification step in alert creation"
+  },
+  "AlertsDetails.Notification.Custom.Description": {
+    "value": "Customize the email notification's format and styling. Find syntax and more information in the help documentation.",
+    "comment": "Description for the custom email template section in the Notification step in alert creation"
+  },
+  "App.ExpiryNotice": {
+    "value": "Your session is about to expire",
+    "comment": "Text shown in snackbar/toast when session is about to expire"
+  },
+  "Assigner.Label.EmptyTable": {
+    "value": "Table is empty",
+    "comment": "Placeholder text table in legacy assigner"
+  },
+  "Assigner.Label.FirstFiftyRows": {
+    "value": "(first fifty rows)",
+    "comment": "Secondary text for headers"
+  },
+  "Assigner.Label.Pending": {
+    "value": "Pending",
+    "comment": "Header for pending table"
+  },
+  "Assigner.Label.NoPendingItems": {
+    "value": "No pending items yet",
+    "comment": "Placeholder text for pending items in assigner"
+  },
+  "Assigner.Label.Assigned": {
+    "value": "Assigned",
+    "comment": "Header text in Assigner component"
+  },
+  "Assigner.Label.FullName": {
+    "value": "Full name",
+    "comment": "Header text in Assigner component"
+  },
+  "Assigner.Label.Unassigned": {
+    "value": "Unassigned",
+    "comment": "Header text in Assigner component"
+  },
+  "Assigner.Label.User": {
+    "value": "User",
+    "comment": "Header text in Assigner component"
+  },
+  "Assigner.Label.Domain": {
+    "value": "Domain",
+    "comment": "Header text in Assigner component"
+  },
+  "Breadcrumbs.Admin": {
+    "value": "Admin",
+    "comment": "Breadcrumb text for Admin"
+  },
+  "Breadcrumbs.Channels": {
+    "value": "Channels",
+    "comment": "Breadcrumb text for Channels"
+  },
+  "Breadcrumbs.Details": {
+    "value": "Details",
+    "comment": "Breadcrumb text for Details"
+  },
+  "Breadcrumbs.Groups": {
+    "value": "Groups",
+    "comment": "Breadcrumb text for Groups"
+  },
+  "Breadcrumbs.Management": {
+    "value": "Management",
+    "comment": "Breadcrumb text for Management"
+  },
+  "Breadcrumbs.Privileges": {
+    "value": "Privileges",
+    "comment": "Breadcrumb text for Privileges"
+  },
+  "Breadcrumbs.Settings": {
+    "value": "Settings",
+    "comment": "Breadcrumb text for Settings"
+  },
+  "Breadcrumbs.Sources": {
+    "value": "Sources",
+    "comment": "Breadcrumb text for Sources"
+  },
+  "Breadcrumbs.Users": {
+    "value": "Users",
+    "comment": "Breadcrumb text for Users"
+  },
+  "ChangePassword.Change": {
+    "value": "Change",
+    "comment": "Link text in Change Password"
+  },
+  "ChangePassword.Generate": {
+    "value": "Generate",
+    "comment": "Link text in Change Password"
+  },
+  "ChangePassword.Modal.CancelContent": {
+    "value": "You are about to leave this page and lose any unsaved changes. Are you sure?",
+    "comment": "Modal content to leave change password page"
+  },
+  "ChangePassword.YourPassword": {
+    "value": " your password",
+    "comment": "Link text in Change Password"
+  },
+  "Channels.Label.Address": {
+    "value": "Address",
+    "comment": "Header text in Channels"
+  },
+  "Channels.Label.Channel": {
+    "value": "Channel",
+    "comment": "Header text in Channels"
+  },
+  "Channels.Label.Email": {
+    "value": "Email",
+    "comment": "Header text in Channels"
+  },
+  "Channels.Label.PortNo": {
+    "value": "Port no",
+    "comment": "Header text in Channels"
+  },
+  "Channels.Label.SecurityLayer": {
+    "value": "Security layer",
+    "comment": "Header text in Channels"
+  },
+  "ChannelsDetails.AuthMethod.Anonymous": {
+    "value": "Anonymous",
+    "comment": "Label for authentication method anonymous"
+  },
+  "ChannelsDetails.AuthMethod.Basic": {
+    "value": "Basic",
+    "comment": "Label for authentication method basic"
+  },
+  "ChannelsDetails.Fields.Options.None": {
+    "value": "None",
+    "comment": "Channels Details none option checkbox"
+  },
+  "ChannelsDetails.Fields.Options.SSL": {
+    "value": "Use SSL (Secure Socket Layer)",
+    "comment": "Channels Details SSL option checkbox"
+  },
+  "ChannelsDetails.Fields.Options.TLS": {
+    "value": "Use TLS (Transport Layer Security)",
+    "comment": "Channels Details TLS option checkbox"
+  },
+  "ChannelsDetails.Label.Address": {
+    "value": "Address *",
+    "comment": "Header text in ChannelsDetails"
+  },
+  "ChannelsDetails.Label.PortNo": {
+    "value": "Port no *",
+    "comment": "Header text in ChannelsDetails"
+  },
+  "ChannelsDetails.Label.TestEmail": {
+    "value": "Test email address",
+    "comment": "Header text in ChannelsDetails"
+  },
+  "ChannelsDetails.HelperText.TestEmail": {
+    "value": "If not provided, test email will be sent to auth username",
+    "comment": "Helper text for Channels Details Form"
+  },
+  "ChannelsDetails.Label.UserName": {
+    "value": "Username *",
+    "comment": "Header text in ChannelsDetails"
+  },
+  "ChannelsDetails.Label.Password": {
+    "value": "Password *",
+    "comment": "Header text in ChannelsDetails"
+  },
+  "ChannelsDetails.Label.DefaultEmail": {
+    "value": "Default sender",
+    "comment": "Header text in ChannelsDetails"
+  },
+  "ChannelsDetails.HelperText.DefaultEmail": {
+    "value": "(optional)",
+    "comment": "Helper text in ChannelsDetails"
+  },
+  "ChangePassword.Button.ChangePassword": {
+    "value": "Change password",
+    "comment": "Button text in Change Password page"
+  },
+  "ChangePassword.Label.ConfirmNewPassword": {
+    "value": "Confirm new password",
+    "comment": "Label text in Change Password page"
+  },
+  "ChangePassword.Label.NewPassword": {
+    "value": "Enter new password",
+    "comment": "Label text in Change Password page"
+  },
+  "ChangePassword.Label.OldPassword": {
+    "value": "Enter old password",
+    "comment": "Label text in Change Password page"
+  },
+  "ChangePassword.Modal.Content": {
+    "value": "You are about to leave this page and lose any unsaved changes. Are you sure?",
+    "comment": "Content text in Change Password modal"
+  },
+  "Condition.Label.Average": {
+    "value": "Average",
+    "comment": "Label for aggregation option"
+  },
+  "Condition.Label.Max": {
+    "value": "Max",
+    "comment": "Label for aggregation option"
+  },
+  "Condition.Label.Min": {
+    "value": "Min",
+    "comment": "Label for aggregation option"
+  },
+  "Condition.Label.IsPercent": {
+    "value": "Offset as percentage",
+    "comment": "Label for checkbox to toggle percentage offset in Condition step"
+  },
+  "Condition.Label.CreateNew": {
+    "value": "Create new condition",
+    "comment": "Label for create new condition button"
+  },
+  "Condition.Label.CreateRule": {
+    "value": "Create new rule",
+    "comment": "Button text in Conditions"
+  },
+  "Condition.Label.Aggregation": {
+    "value": "Aggregation",
+    "comment": "Label text in Conditions"
+  },
+  "Condition.Label.Column": {
+    "value": "Column",
+    "comment": "Label text in Conditions"
+  },
+  "Condition.Label.Conditions": {
+    "value": "Conditions",
+    "comment": "Subheader in Conditions"
+  },
+  "Condition.Label.Conditions.Description": {
+    "value": "Set limit(s) of when a notification is triggered.",
+    "comment": "Description for Conditions section"
+  },
+  "Condition.Label.CompareWith": {
+    "value": "Compare with",
+    "comment": "Button text in Conditions"
+  },
+  "Condition.Label.InvalidDataTable": {
+    "value": "Invalid data table",
+    "comment": "Info text for Conditions"
+  },
+  "Condition.Label.Offset": {
+    "value": "Offset",
+    "comment": "Label text in Conditions"
+  },
+  "Condition.Label.Operator": {
+    "value": "Operator",
+    "comment": "Label text in Conditions"
+  },
+  "Condition.Label.Operator.GreaterThan": {
+    "value": "greater than (>)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.GreaterThanOrEqual": {
+    "value": "greater than or equal to (>=)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.LessThan": {
+    "value": "less than (<)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.LessThanOrEqual": {
+    "value": "less than or equal to (<=)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.Equal": {
+    "value": "equal to (=)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.NotEqual": {
+    "value": "not equal to (!=)",
+    "comment": ""
+  },
+  "Condition.Label.Operator.Includes": {
+    "value": "includes",
+    "comment": ""
+  },
+  "Condition.Label.Operator.StartsWith": {
+    "value": "starts with",
+    "comment": ""
+  },
+  "Condition.Label.Operator.EndsWith": {
+    "value": "ends with",
+    "comment": ""
+  },
+  "Condition.Label.Percentile": {
+    "value": "Percentile",
+    "comment": "Label text in Conditions"
+  },
+  "Condition.Label.Quartile": {
+    "value": "Quartile",
+    "comment": "Label text in Conditions"
+  },
+  "Condition.Label.Remove": {
+    "value": "Remove",
+    "comment": "Button text in Conditions"
+  },
+  "Condition.Label.Rules": {
+    "value": "Custom rules",
+    "comment": "Subheader in Conditions"
+  },
+  "Condition.Label.CustomRule": {
+    "value": "Custom rule",
+    "comment": "Label for rule input field rule panel"
+  },
+  "Condition.Label.Rule": {
+    "value": "Rule {0}",
+    "comment": "Header text for rule panel summary. {0} contains rule name."
+  },
+  "Condition.Label.OkSyntax": {
+    "value": "Syntax is ok.",
+    "comment": "Hint text below input field informing user that value is valid"
+  },
+  "Condition.Label.Rules.Description": {
+    "value": "Conditions will be evaluated one by one unless you create custom rules.",
+    "comment": "Description for the Custom rules section of the Condition step in alert creation"
+  },
+  "Condition.Label.Scans": {
+    "value": "Scans",
+    "comment": "Label text in Condition"
+  },
+  "Condition.Label.StandardDeviation": {
+    "value": "Standard deviation",
+    "comment": "Label text in Condition"
+  },
+  "Condition.Label.TimeZone": {
+    "value": "Time zone",
+    "comment": "Label text in Condition"
+  },
+  "Condition.Label.Type": {
+    "value": "Type",
+    "comment": "Label text in Condition"
+  },
+  "Condition.Label.Type.ManualValue": {
+    "value": "Manual value",
+    "comment": "Condition type when comparing with a fixed value"
+  },
+  "Condition.Label.Type.Measure": {
+    "value": "Measure",
+    "comment": "Condition type when comparing with another column"
+  },
+  "Condition.Label.Type.PreviousScans": {
+    "value": "Previous scans",
+    "comment": "Condition type when comparing with history"
+  },
+  "Condition.Label.Type.Set": {
+    "value": "Set",
+    "comment": "Condition type when comparing with an aggregation of the same column"
+  },
+  "Condition.Label.ValidateConditions": {
+    "value": "Validate conditions",
+    "comment": "Button text in Condition"
+  },
+  "Condition.Label.Value": {
+    "value": "Value",
+    "comment": "Button text in Condition"
+  },
+  "Condition.TableHeader.Negative": {
+    "value": "Negative",
+    "comment": "Negative value label for table header"
+  },
+  "Condition.TableHeader.Positive": {
+    "value": "Positive",
+    "comment": "Positive value label for table header"
+  },
+  "Condition.TableHeader.Total": {
+    "value": "Total",
+    "comment": "Total value label for table header"
+  },
+  "ConditionsPanels.Condition": {
+    "value": "Condition {0}",
+    "comment": "Header text for condition panel summary. {0} contains condition name"
+  },
+  "ConditionPanels.Label.CreateNewCondition": {
+    "value": "Create new condition",
+    "comment": "Label text in Notification Panels"
+  },
+  "ConditionPanels.Label.isPercent": {
+    "value": "is percent?",
+    "comment": "Label text in Notification Panels"
+  },
+  "Config.Helper.HostServer": {
+    "value": "IP or DNS of the Qlik Alerting server used for URL links",
+    "comment": "Helper text in Config"
+  },
+  "Config.Helper.HttpPort": {
+    "value": "Please enter basic port for data transfer",
+    "comment": "Helper text in Config"
+  },
+  "Config.Helper.HttpsPort": {
+    "value": "Please enter secure port for data transfer",
+    "comment": "Helper text in Config"
+  },
+  "Config.Label.HostServer": {
+    "value": "Qlik Alerting host server name *",
+    "comment": "Label text in Config"
+  },
+  "Config.Label.HttpPort": {
+    "value": "Qlik Alerting HTTP port *",
+    "comment": "Label text in Config"
+  },
+  "Config.Label.HttpsPort": {
+    "value": "Qlik Alerting HTTPS port *",
+    "comment": "Label text in Config"
+  },
+  "Config.Modal.CancelContent": {
+    "value": "You are about to leave this page and lose any unsaved changes. Are you sure?",
+    "comment": "Cancel content for modal on config page"
+  },
+  "DataTable.Label.Application": {
+    "value": "Application",
+    "comment": "Selector header text in Data Table"
+  },
+  "DataTable.Label.Source": {
+    "value": "Source (Qlik Sense app)",
+    "comment": "Selector header text in Data Table"
+  },
+  "DataTable.Label.RefreshCache": {
+    "value": "Refresh",
+    "comment": "Label for button to refresh cache for list of apps and objects in Data Table"
+  },
+  "DataTable.Label.RefreshTooltip": {
+    "value": "Refresh the application lists. This may be required if you cannot see a recently created object.",
+    "comment": "Label for tooltip button to refresh cache for list of apps and objects in Data Table"
+  },
+  "DataTable.Label.Bookmark": {
+    "value": "Bookmark",
+    "comment": "Selector header text in Data Table"
+  },
+  "DataTable.Label.CustomExpression": {
+    "value": "Expression",
+    "comment": "Selector header text in Data Table"
+  },
+  "DataTable.Label.CustomLabel": {
+    "value": "Label",
+    "comment": "Selector header text in Data Table"
+  },
+  "DataTable.Label.CustomMeasure": {
+    "value": "Custom measure",
+    "comment": "Switch text in Data Table"
+  },
+  "DataTable.Label.DataSource": {
+    "value": "Data source",
+    "comment": "Subheader text in Data Table"
+  },
+  "DataTable.Label.Dimension": {
+    "value": "Dimension",
+    "comment": "Selector header text in Data Table"
+  },
+  "DataTable.Label.DrillToDimension": {
+    "value": "Drill to dimension",
+    "comment": "Subheader text in Data Table"
+  },
+  "DataTable.Label.DrillToDimension.Description": {
+    "value": "Split up the measures per dimension for a more specific result.",
+    "comment": "Description for the DrillToDimension section of the Data step in alert creation"
+  },
+  "DataTable.Label.Filters": {
+    "value": "Filters",
+    "comment": "Subheader text in Data Table"
+  },
+  "DataTable.Label.Filter": {
+    "value": "Filter",
+    "comment": "Selector header text in Data Table"
+  },
+  "DataTable.Label.AddFilter": {
+    "value": "Add filter",
+    "comment": "Label for button to add filter in Data Table"
+  },
+  "DataTable.Label.AddedFilters": {
+    "value": "Added filters",
+    "comment": "Header for table which shows added filters in Data Table"
+  },
+  "DataTable.Label.FilterField": {
+    "value": "Filter field",
+    "comment": "Selector header text in Data Table"
+  },
+  "DataTable.Label.Preview": {
+    "value": "Preview",
+    "comment": "Header for preview table"
+  },
+  "DataTable.Label.Filters.Description": {
+    "value": "Filter by selecting a bookmark or create a custom filter using fields and values",
+    "comment": "Description for the Filter section of the Data step in alert creation"
+  },
+  "DataTable.Label.Measures": {
+    "value": "Add measures",
+    "comment": "Subheader text in Data Table"
+  },
+  "DataTable.Label.AddMeasure": {
+    "value": "Add measure",
+    "comment": "Label for button to add measure in Data Table"
+  },
+  "DataTable.Label.AddedMeasures": {
+    "value": "Added measures",
+    "comment": "Header added measures table in Data Table"
+  },
+  "DataTable.Label.AddedMeasures.NoneAdded": {
+    "value": "No measures added yet",
+    "comment": "Placeholder text for add measures table in data step of alert creation"
+  },
+  "DataTable.Label.Format": {
+    "value": "Format",
+    "comment": "Selector header text in Data Table"
+  },
+  "DataTable.Label.Measure": {
+    "value": "Measure",
+    "comment": "Subheader text in Data Table"
+  },
+  "DataTable.Label.Sheet": {
+    "value": "Sheet",
+    "comment": "Selector header text in Data Table"
+  },
+  "DataTable.Label.SortAscending": {
+    "value": "Sort ascending",
+    "comment": "Info text for Sort Ascending"
+  },
+  "DataTable.Label.SortBy": {
+    "value": "Sort by",
+    "comment": "Info text for Sort By"
+  },
+  "DataTable.Label.SortOrder": {
+    "value": "Sort order",
+    "comment": "Info text for Sort Order"
+  },
+  "DataTable.Label.Ascending": {
+    "value": "Ascending",
+    "comment": "Label for ascending value"
+  },
+  "DataTable.Label.Descending": {
+    "value": "Descending",
+    "comment": "Label for descending value"
+  },
+  "DataTable.Label.Values": {
+    "value": "Values",
+    "comment": "Selector header text in Data Table"
+  },
+  "Devices.Card.AddDevice": {
+    "value": " Add a new device:",
+    "comment": "Card text in Devices"
+  },
+  "Devices.Card.DownloadApp": {
+    "value": "Please download the application from AppStore, click + to add and pair with this QR code",
+    "comment": "Card text in Devices"
+  },
+  "Devices.Card.EmptyCard": {
+    "value": "You can pair up to 5 different devices in the mobile device list.",
+    "comment": "Card text in Devices"
+  },
+  "Devices.Card.FilledCard": {
+    "value": "Device:",
+    "comment": "Card text in Devices"
+  },
+  "Devices.Card.DeviceStatus": {
+    "value": "Device status:",
+    "comment": "Card text in Devices"
+  },
+  "Devices.Card.MobileDeviceList": {
+    "value": "Mobile device list",
+    "comment": "Header text in Devices"
+  },
+  "Devices.Card.QrCode": {
+    "value": "Please scan QR code to register device",
+    "comment": "Card text in Devices"
+  },
+  "Devices.Card.Refresh": {
+    "value": "Refresh",
+    "comment": "Card text in Devices"
+  },
+  "Devices.Card.Remove": {
+    "value": "REMOVE DEVICE",
+    "comment": "Card text in Devices"
+  },
+  "Devices.Card.Since": {
+    "value": "Since:",
+    "comment": "Card text in Devices"
+  },
+  "Devices.Card.DeviceType": {
+    "value": "Device type:",
+    "comment": "Typography for Device Type"
+  },
+  "DataTable.Label.Preview.Description": {
+    "value": "Add a measure to start previewing alert and it's data table",
+    "comment": "Placeholder text for preview in data step"
+  },
+  "DataTable.Group.MasterMeasures": {
+    "value": "Master measures",
+    "comment": "Label for the Master measures group in the select input"
+  },
+  "Distribution.Label.Advanced": {
+    "value": "Advanced",
+    "comment": "Switch text in Distribution"
+  },
+  "Distribution.Label.BroadcastAlert": {
+    "value": "Broadcast alert",
+    "comment": "Radio text in Distribution"
+  },
+  "Distribution.Label.Channels": {
+    "value": "Channels",
+    "comment": "Selector header text in Distribution"
+  },
+  "Distribution.Label.Frequency": {
+    "value": "Frequency",
+    "comment": "Selector header text in Distribution"
+  },
+  "Distribution.Label.PublishBookmark": {
+    "value": "Publish bookmark",
+    "comment": "Publish Bookmark in managed alert on Distribution step"
+  },
+  "Distribution.Label.ManagedAlert": {
+    "value": "Managed shared alert",
+    "comment": "Radio text in Distribution"
+  },
+  "Distribution.Label.PreviewList": {
+    "value": "Preview list",
+    "comment": "Button text in Distribution"
+  },
+  "Distribution.Label.SelectedRecipients": {
+    "value": "Recipients selected:",
+    "comment": "Label for number of selected recipients"
+  },
+  "Distribution.Label.SelectedGroups": {
+    "value": "Groups selected:",
+    "comment": "Label for number of selected groups"
+  },
+  "Distribution.Label.SelectGroups": {
+    "value": "Select groups",
+    "comment": "Button text in Distribution"
+  },
+  "Distribution.Label.SelectRecipients": {
+    "value": "Select recipients",
+    "comment": "Button text in Distribution"
+  },
+  "General.Accept": {
+    "value": "Accept",
+    "comment": "General text for Accept"
+  },
+  "General.Cancel": {
+    "value": "Cancel",
+    "comment": "General text for Cancel"
+  },
+  "General.Clear": {
+    "value": "Clear",
+    "comment": "General text for Clear"
+  },
+  "General.Close": {
+    "value": "Close",
+    "comment": "General text for Close"
+  },
+  "General.Confirm": {
+    "value": "Confirm",
+    "comment": "General text for Confirm"
+  },
+  "General.Create": {
+    "value": "Create",
+    "comment": "General text for Create"
+  },
+  "General.Delete": {
+    "value": "Delete",
+    "comment": "General text for Delete"
+  },
+  "General.DeleteContent": {
+    "value": "Are you sure you want to delete?",
+    "comment": "General content for delete"
+  },
+  "General.Duplicate": {
+    "value": "Duplicate",
+    "comment": "General text for Duplicate"
+  },
+  "General.Edit": {
+    "value": "Edit",
+    "comment": "General text for Edit"
+  },
+  "General.Next": {
+    "value": "Next",
+    "comment": "General text for Next"
+  },
+  "General.No": {
+    "value": "No",
+    "comment": "General text for No"
+  },
+  "General.Reject": {
+    "value": "Reject",
+    "comment": "General text for Reject"
+  },
+  "General.Save": {
+    "value": "Save",
+    "comment": "General text for Save"
+  },
+  "General.Search": {
+    "value": "Search",
+    "comment": "General text for Search"
+  },
+  "General.SelectAll": {
+    "value": "Select all",
+    "comment": "General text for Select All"
+  },
+  "General.Selected": {
+    "value": "Selected",
+    "comment": "General text for Selected"
+  },
+  "General.Share": {
+    "value": "Share",
+    "comment": "General text for Share"
+  },
+  "General.ShowMore": {
+    "value": "Show more",
+    "comment": "General text for Show more"
+  },
+  "General.Test": {
+    "value": "Test connection",
+    "comment": "General text for Test"
+  },
+  "General.Trigger": {
+    "value": "Trigger",
+    "comment": "General text for Trigger"
+  },
+  "General.UnselectAll": {
+    "value": "Unselect all",
+    "comment": "General text for UnselectAll"
+  },
+  "General.Update": {
+    "value": "Update ",
+    "comment": "General text for UnselectAll"
+  },
+  "General.Yes": {
+    "value": "Yes",
+    "comment": "General text for Yes"
+  },
+  "General.Previous": {
+    "value": "Previous",
+    "comment": "General text for Previous"
+  },
+  "Inbox.DataHandler.NeverScanned": {
+    "value": "Never scanned",
+    "comment": "Never Scanned value for lastScan"
+  },
+  "Inbox.DataHandler.NotTriggered": {
+    "value": "Not triggered in last 100",
+    "comment": "Not Triggered value for lastTriggered"
+  },
+  "Inbox.Label.AlertName": {
+    "value": "Alert name",
+    "comment": "Header text in Inbox"
+  },
+  "Inbox.Label.ApplicationName": {
+    "value": "Application name",
+    "comment": "Header text in Inbox"
+  },
+  "Inbox.Label.ExecutionStatus": {
+    "value": "Execution status",
+    "comment": "Header text in Inbox"
+  },
+  "Inbox.Label.Last10": {
+    "value": "Last 10 scans triggered",
+    "comment": "Header text in Inbox"
+  },
+  "Inbox.Label.Last100": {
+    "value": "Last 100 scans triggered",
+    "comment": "Header text in Inbox"
+  },
+  "Inbox.Label.LastScan": {
+    "value": "Last scan",
+    "comment": "Header text in Inbox"
+  },
+  "Inbox.Label.LastTriggered": {
+    "value": "Last triggered",
+    "comment": "Header text in Inbox"
+  },
+  "Inbox.Label.TaskName": {
+    "value": "Task name",
+    "comment": "Header text in Inbox"
+  },
+  "Inbox.Label.TriggerType": {
+    "value": "Trigger type",
+    "comment": "Header text in Inbox"
+  },
+  "Inbox.Label.View": {
+    "value": "View",
+    "comment": "Header text in Inbox"
+  },
+  "InboxData.Button.ExportData": {
+    "value": "Export data",
+    "comment": "Export Data button"
+  },
+  "InboxData.DataHandler.BookmarkField": {
+    "value": "Bookmark applied",
+    "comment": "Field data when there is a bookmark"
+  },
+  "InboxData.DataHandler.NoFiltersField": {
+    "value": "No filters selected",
+    "comment": "Field data when there is are no filters"
+  },
+  "InboxData.DataHandler.Label.Every": {
+    "value": "Every time",
+    "comment": "Every time for frequency labels"
+  },
+  "InboxData.DataHandler.Label.Once": {
+    "value": "Only once",
+    "comment": "Only once for frequency labels"
+  },
+  "InboxData.DataHandler.Label.FirstDay": {
+    "value": "Only the first each day",
+    "comment": "First of each day for frequency labels"
+  },
+  "InboxData.DataHandler.Label.FirstHour": {
+    "value": "Only the first each hour",
+    "comment": "First of each hour for frequency labels"
+  },
+  "InboxData.DataHandler.Label.FirstMonth": {
+    "value": "Only the first each month",
+    "comment": "First of each month for frequency labels"
+  },
+  "InboxData.DataHandler.Label.FirstWeek": {
+    "value": "Only the first each week",
+    "comment": "First of each week for frequency labels"
+  },
+  "InboxData.DataHandler.No": {
+    "value": "No",
+    "comment": "no"
+  },
+  "InboxData.DataHandler.Yes": {
+    "value": "Yes",
+    "comment": "Yes"
+  },
+  "InboxData.FilterTable.Field": {
+    "value": "Field",
+    "comment": "Label for filter table field definitions"
+  },
+  "InboxData.FilterTable.Selections": {
+    "value": "Selections",
+    "comment": "Label for filter table selections definitions"
+  },
+  "InboxData.MainTable.Notified": {
+    "value": "Notified",
+    "comment": "Label for main table notified definitions"
+  },
+  "InboxData.MainTable.Title": {
+    "value": "Title",
+    "comment": "Label for main table title definitions"
+  },
+  "InboxData.MainTable.TriggeredData": {
+    "value": "Triggered data",
+    "comment": "Label for main table triggered data definitions"
+  },
+  "InboxData.SimpleCard.AppName": {
+    "value": "Application name",
+    "comment": "Application Name label for Simple Card definitions"
+  },
+  "InboxData.SimpleCard.Conditions": {
+    "value": "Conditions",
+    "comment": "Conditions label for Simple Card definitions"
+  },
+  "InboxData.SimpleCard.DistributionFrequency": {
+    "value": "Distribution frequency",
+    "comment": "Distribution Frequency label for Simple Card definitions"
+  },
+  "InboxData.SimpleCard.Rules": {
+    "value": "Rules",
+    "comment": "Rules label for Simple Card definitions"
+  },
+  "InboxData.SimpleCard.ScanDetails": {
+    "value": "Scan details at",
+    "comment": "Title for Simple Card"
+  },
+  "InboxData.SimpleCard.Title": {
+    "value": "Title",
+    "comment": "Title label for Simple Card definitions"
+  },
+  "InboxData.Span.LastTen": {
+    "value": "Last 10 scans",
+    "comment": "Title for scans table"
+  },
+  "InboxData.Typography.ClickRow": {
+    "value": "(click on a row to view the details)",
+    "comment": "Subtitle for scans table"
+  },
+  "InboxData.Typography.Filters": {
+    "value": "Filters",
+    "comment": "Title for filters table"
+  },
+  "InboxData.Typography.ReportedData": {
+    "value": "Reported data",
+    "comment": "Title for reported data table"
+  },
+  "InboxData.Typography.ReportedSubtitle": {
+    "value": "showing",
+    "comment": "First part of reported data subtitle"
+  },
+  "InboxData.Typography.ReportedSubtitleCont": {
+    "value": "of",
+    "comment": "Second part of reported data subtitle"
+  },
+  "InboxSystem.DataHandler.NotYet": {
+    "value": "Not yet completed",
+    "comment": "Not yet completed for task status"
+  },
+  "InboxSystem.DataHandler.Success": {
+    "value": "Success",
+    "comment": "Success value for task status"
+  },
+  "InboxSystem.Label.AlertName": {
+    "value": "Alert name",
+    "comment": "Line text in Inbox System"
+  },
+  "InboxSystem.Label.ApplicationName": {
+    "value": "Application name",
+    "comment": "Line text in Inbox System"
+  },
+  "InboxSystem.Label.Details": {
+    "value": "System alert details",
+    "comment": "Header text in Inbox System"
+  },
+  "InboxSystem.Label.Duration": {
+    "value": "Duration",
+    "comment": "Line text in Inbox System"
+  },
+  "InboxSystem.Label.isActive": {
+    "value": "Is active",
+    "comment": "Line text in Inbox System"
+  },
+  "InboxSystem.Label.Status": {
+    "value": "Status",
+    "comment": "Line text in Inbox System"
+  },
+  "InboxSystem.Label.TaskName": {
+    "value": "Task name",
+    "comment": "Line text in Inbox System"
+  },
+  "InboxSystem.Label.TaskStatus": {
+    "value": "Task status",
+    "comment": "Line text in Inbox System"
+  },
+  "InboxSystem.Label.Triggered": {
+    "value": "Triggered",
+    "comment": "Line text in Inbox System"
+  },
+  "InboxSystem.Label.TriggeredDateAndTime": {
+    "value": "Triggered date and time",
+    "comment": "Header text in Inbox System"
+  },
+  "InboxSystem.Label.TriggeredHistory": {
+    "value": "System alert triggered history",
+    "comment": "Header text in Inbox System"
+  },
+  "Login.Card.Title": {
+    "value": "Welcome to Qlik Alerting!",
+    "comment": "Title for the login card on the login screen"
+  },
+  "Login.Card.Subtitle": {
+    "value": "Let's get you logged in.",
+    "comment": "Subtitle for the login card on the login screen"
+  },
+  "Login.Label.UserID": {
+    "value": "Username",
+    "comment": "Label for the username input field in the login page"
+  },
+  "Login.Label.Alerting": {
+    "value": "Alerting ™",
+    "comment": "Header label in login page"
+  },
+  "Login.Label.Password": {
+    "value": "Password",
+    "comment": "Label for the password input field in the login page"
+  },
+  "Login.Link.BackToLogin": {
+    "value": "Back to login",
+    "comment": "Link text in login page"
+  },
+  "Login.Link.ForgotPassword": {
+    "value": "I forgot my password",
+    "comment": "Link text in login page"
+  },
+  "Login.Link.Login": {
+    "value": "Login",
+    "comment": "Link text in login page"
+  },
+  "Login.Link.RecoverPassword": {
+    "value": "Recover password",
+    "comment": "Link text in login page"
+  },
+  "Navbar.AlertCreation.IncompleteAlert.Title": {
+    "value": "Incomplete alert",
+    "comment": "Title for incomplete alert warning dialog"
+  },
+  "Navbar.AlertCreation.IncompleteAlert.Content": {
+    "value": "The alert cannot be saved as there are required fields yet to filled in. If you exit, any changes will be discarded.",
+    "comment": "Content for the incomplete alert warning dialog"
+  },
+  "Navbar.AlertCreation.IncompleteAlert.Error": {
+    "value": "Error: {0}",
+    "comment": "Error content for the incomplete alert warning dialog. {0} is the error"
+  },
+  "Navbar.AlertCreation.IncompleteAlert.ExitDiscard": {
+    "value": "Exit & discard",
+    "comment": "Text for the confirmation button in the incomplete alert warning dialog"
+  },
+  "Navbar.AlertCreation.Title": {
+    "value": "{0} alert",
+    "comment": "Title in the header when in alert creation flow. {0} is the alert type"
+  },
+  "Navbar.AlertCreation.UnsavedChanges.Discard": {
+    "value": "Discard",
+    "comment": "Text for the discard action button in the unsaved changes warning dialog"
+  },
+  "Navbar.AlertCreation.UnsavedChanges.Title": {
+    "value": "Unsaved changes",
+    "comment": "Title for unsaved chanhges warning dialog"
+  },
+  "Navbar.AlertCreation.UnsavedChanges.Content": {
+    "value": "There are unsaved changes. Do you want to save before leaving?",
+    "comment": "Content for the unsaved changes warning dialog"
+  },
+  "Navbar.Button.ChangePassword": {
+    "value": "Change password",
+    "comment": "Button text in User Profile"
+  },
+  "Navbar.Header.Alerting": {
+    "value": "Alerting ™",
+    "comment": "Menu Item in Navbar"
+  },
+  "Navbar.Header.Alerts": {
+    "value": "Alerts",
+    "comment": "Menu Item in Navbar"
+  },
+  "Navbar.Header.Inbox": {
+    "value": "Inbox",
+    "comment": "Menu Item in Navbar"
+  },
+  "NavigationBlocker.Warning.Title": {
+    "value": "Warning",
+    "comment": "Title of the warning dialog"
+  },
+  "NavigationBlocker.Warning.Content": {
+    "value": "You are about to leave this page and lose any unsaved changes. Are you sure?",
+    "comment": "Content of the warning dialog"
+  },
+  "Notification.Label.CustomizeNotification": {
+    "value": "Customize notification",
+    "comment": "Switch text in Notification"
+  },
+  "Notification.Label.NotificationSubject": {
+    "value": "Notification subject",
+    "comment": "Selector header text in Notification"
+  },
+  "Notification.Label.Notification": {
+    "value": "Notification",
+    "comment": "Header text in Notification section"
+  },
+  "Page404.Label.BackHome": {
+    "value": "Go back to Home Screen",
+    "comment": "Button text in Page 404"
+  },
+  "Page404.Label.Contents": {
+    "value": "404 - The page you requested could not be found",
+    "comment": "Contents in Page 404"
+  },
+  "Privileges.Label.AssignedUsers": {
+    "value": "Assigned users",
+    "comment": "Header label in Privileges"
+  },
+  "Privileges.Label.Edit": {
+    "value": "Edit",
+    "comment": "Header label in Privileges"
+  },
+  "Privileges.Label.Privilege": {
+    "value": "Privilege",
+    "comment": "Header label in Privileges"
+  },
+  "PrivilegesDetails.Label.Privilege": {
+    "value": "Privilege: ",
+    "comment": "Header label in Privileges Details"
+  },
+  "RecipientsGroup.Label.Domain": {
+    "value": "Domain",
+    "comment": "Header text in Recipients and Groups"
+  },
+  "RecipientsGroup.Label.FullName": {
+    "value": "Full name",
+    "comment": "Header text in Recipients and Groups"
+  },
+  "RecipientsGroup.Label.Group": {
+    "value": "Group",
+    "comment": "Label text in Recipients and Groups"
+  },
+  "RecipientsGroup.Label.License": {
+    "value": "License",
+    "comment": "Label text in Recipients and Groups"
+  },
+  "RecipientsGroup.Label.Name": {
+    "value": "Name",
+    "comment": "Header text in Recipients and Groups"
+  },
+  "RecipientsGroup.Label.Recipients": {
+    "value": "# Recipients",
+    "comment": "Header text in Recipients and Groups"
+  },
+  "RecipientsGroup.Label.Selected": {
+    "value": "Selected",
+    "comment": "Label text in Recipients and Groups"
+  },
+  "RecipientsGroup.Label.User": {
+    "value": "User",
+    "comment": "Header text in Recipients and Groups"
+  },
+  "RecipientsGroup.Label.Unsubscribed": {
+    "value": "Unsubscribed",
+    "comment": "Label text in Recipients and Groups"
+  },
+  "Register.Button.SelectCertificates": {
+    "value": "Select certificates",
+    "comment": "Button label in Register Component"
+  },
+  "Register.Label.ClientFile": {
+    "value": "Client file",
+    "comment": "Tooltip label in Register Component"
+  },
+  "Register.Label.ClientKeyFile": {
+    "value": "Client key file",
+    "comment": "Tooltip label in Register Component"
+  },
+  "Register.Label.Config": {
+    "value": "Config",
+    "comment": "Steps label in Register Component"
+  },
+  "Register.Label.Email": {
+    "value": "Email",
+    "comment": "Steps label in Register Component"
+  },
+  "Register.Label.QlikConnection": {
+    "value": "Qlik connection",
+    "comment": "Steps label in Register Component"
+  },
+  "Register.Label.SelectAdmin": {
+    "value": "Select admin",
+    "comment": "Steps label in Register Component"
+  },
+  "Register.Completion.Content": {
+    "value": "Your registration process is complete",
+    "comment": "Modal text in Register Component"
+  },
+  "Register.Completion.GoToLogin": {
+    "value": "Go to login",
+    "comment": "Button text in Register Component"
+  },
+  "Register.Completion.Title": {
+    "value": "Registration completed!",
+    "comment": "Modal text in Register Component"
+  },
+  "Register.Modal.Content": {
+    "value": "You are about to leave this page and lose any unsaved changes. Are you sure?",
+    "comment": "Modal text in Register Component"
+  },
+  "Register.Card.UserName": {
+    "value": "User name:",
+    "comment": "Label in Register Admin"
+  },
+  "Register.Card.FirstName": {
+    "value": "First name:",
+    "comment": "Label in Register Admin"
+  },
+  "Register.Card.LastName": {
+    "value": "Last name:",
+    "comment": "Label in Register Admin"
+  },
+  "Register.Card.Email": {
+    "value": "Email:",
+    "comment": "Label in Register Admin"
+  },
+  "Register.Card.SelectThisUserAsAdmin": {
+    "value": "Select this user as admin",
+    "comment": "Button in Register Admin"
+  },
+  "Register.Card.ConfirmEmail": {
+    "value": "Please enter an email to confirm",
+    "comment": "Placeholder in Register Admin"
+  },
+  "Schedule.Label.AddScanTime": {
+    "value": "Add scan time",
+    "comment": "Button label for adding a scan timwe"
+  },
+  "Schedule.Label.BetweenTimes": {
+    "value": "Between times: ",
+    "comment": "Subheader Text in Schedule"
+  },
+  "Schedule.Label.Every": {
+    "value": "Every:",
+    "comment": "Subheader Text in Schedule"
+  },
+  "Schedule.Label.DaysOfTheMonth": {
+    "value": "Days of the month",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.DaysOfTheWeek": {
+    "value": "Days of the week",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.DaysOfTheWeek.Monday": {
+    "value": "Monday",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.DaysOfTheWeek.Tuesday": {
+    "value": "Tuesday",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.DaysOfTheWeek.Wednesday": {
+    "value": "Wednesday",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.DaysOfTheWeek.Thursday": {
+    "value": "Thursday",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.DaysOfTheWeek.Friday": {
+    "value": "Friday",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.DaysOfTheWeek.Saturday": {
+    "value": "Saturday",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.DaysOfTheWeek.Sunday": {
+    "value": "Sunday",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.EndTime": {
+    "value": "End time *",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.Hours": {
+    "value": "Hours *",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.HowToTrigger": {
+    "value": "How do you want to trigger your alert? *",
+    "comment": "Subheader text in Schedule"
+  },
+  "Schedule.Label.Intervals": {
+    "value": "Intervals",
+    "comment": "Radio text in Schedule"
+  },
+  "Schedule.Label.Minutes": {
+    "value": "Minutes *",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.OnReload": {
+    "value": "On reload",
+    "comment": "Radio Text in Schedule"
+  },
+  "Schedule.Label.OnSchedule": {
+    "value": "On schedule *",
+    "comment": "Radio text in Schedule"
+  },
+  "Schedule.Label.ScanSince": {
+    "value": "Scan since",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.ScanUntil": {
+    "value": "Scan until",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.ScheduleAlertBy": {
+    "value": "Schedule alert by",
+    "comment": "Subheader Text in Schedule"
+  },
+  "Schedule.Label.ServerTime": {
+    "value": "Server time:",
+    "comment": "Label to specify the time in the server"
+  },
+  "Schedule.Label.StartTime": {
+    "value": "Start time *",
+    "comment": "General text for Start Time"
+  },
+  "Schedule.Label.TimeToScan": {
+    "value": "Time to scan *",
+    "comment": "Selector header text in Schedule"
+  },
+  "Schedule.Label.Times": {
+    "value": "Times",
+    "comment": "Radio text in Schedule"
+  },
+  "Schedule.Label.TriggerNow": {
+    "value": "Trigger now",
+    "comment": "Radio text in Schedule"
+  },
+  "SelectAdmin.FormControl.SearchBy": {
+    "value": "Search by name, username or user domain",
+    "comment": "Label giving search options"
+  },
+  "Share.Groups.TableHeader.DomainUser": {
+    "value": "Domain user",
+    "comment": "Table header for the DomainUser field"
+  },
+  "Share.Groups.TableHeader.FirstName": {
+    "value": "First name",
+    "comment": "Table header for the FirstName field"
+  },
+  "Share.Groups.TableHeader.LastName": {
+    "value": "Last name",
+    "comment": "Table header for the LastName field"
+  },
+  "Share.Groups.TableHeader.Name": {
+    "value": "Name",
+    "comment": "Table header for the Name field"
+  },
+  "Share.Groups.TableHeader.Recipients": {
+    "value": "# Recipients",
+    "comment": "Table header for the recipients field"
+  },
+  "SimpleCard.Label.SpanningTable": {
+    "value": "spanning table",
+    "comment": "Aria Label in Simple Card"
+  },
+  "Snackbar.Alerts.NotLicensed": {
+    "value": "Your user does not have a Qlik Sense license",
+    "comment": "Snack message to tell users they don't have a Qlik license to create/edit data alerts"
+  },
+  "Snackbar.Alerts.deleteAlert": {
+    "value": "The {0} alert has been deleted",
+    "comment": "Snack message to show alert type that has been deleted. {0} is the alert type"
+  },
+  "Snackbar.Alerts.deleteAlertFailed": {
+    "value": "The {0} alert could not be deleted",
+    "comment": "Snack message to show alert could not be deleted. {0} is the alert type"
+  },
+  "Snackbar.Alerts.DisableAlert": {
+    "value": "The alert has been disabled",
+    "comment": "Snack message to show alert's enabled stats. {0} is a boolean for enabled status"
+  },
+  "Snackbar.Alerts.duplicateAlert": {
+    "value": "The selected alerts have been duplicated",
+    "comment": "Snack message to confirm alert was deleted."
+  },
+  "Snackbar.Alerts.duplicateAlertError": {
+    "value": "{0} of the alerts selected duplicated, {1} failed to duplicate",
+    "comment": "Snack message to confirm successful or failed duplication. {0} is the amout of alerts"
+  },
+  "Snackbar.Alerts.EnableAlert": {
+    "value": "The alert has been enabled",
+    "comment": "Snack message to show alert's enabled stats. {0} is a boolean for enabled status"
+  },
+  "Snackbar.Alerts.showMore": {
+    "value": "Showing {0} more",
+    "comment": "Snack message to show more alerts have been loaded. {0} indicates the amount."
+  },
+  "Snackbar.Alerts.triggerAlert": {
+    "value": "The alert has been triggered. ({0})",
+    "comment": "Snack message to show alert has been triggered. {0} is the alert name"
+  },
+  "Snackbar.Alerts.triggerAlertWarn": {
+    "value": "Warning: Please enable this alert before triggering. ({0})",
+    "comment": "Snack message to show alert must be enabled for triggering. {0} is the alert name"
+  },
+  "Snackbar.AlertsDetails.appList": {
+    "value": "You have successfully refreshed the application list",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbar.AlertsDetails.appObjects": {
+    "value": "You have successfully refreshed the application object",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbar.AlertsDetails.checkDataTable": {
+    "value": "Error querying data. Check your data table.",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbar.AlertsDetails.createAlert": {
+    "value": "Alert created successfully",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbar.AlertsDetails.checkRules": {
+    "value": "Check your condition rules",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbar.AlertsDetails.clearFiles": {
+    "value": "The certificate has been removed.",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbar.AlertsDetails.errorGettingPreview": {
+    "value": "There was an error getting the condition preview",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbar.AlertsDetails.getObjects": {
+    "value": "Error retrieving App objects. Maybe you don't have access to this App?",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbars.AlertsDetails.GetSystemTask": {
+    "value": "We have not found any tasks for your user. Make sure you have access in Qlik.",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbar.AlertsDetails.noHistoryForNewAlerts": {
+    "value": "History conditions will not calculate for new alerts",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbar.AlertsDetails.RefreshedApps": {
+    "value": "The app list has been refreshed",
+    "comment": "Message after the list of qlik sense apps has been forced to refresh"
+  },
+  "Snackbar.AlertsDetails.RefreshedObjects": {
+    "value": "The object list has been refreshed for the current app",
+    "comment": "Message after the list of objects for a qlik sense app has been forced to refresh"
+  },
+  "Snackbar.AlertsDetails.updateAlert": {
+    "value": "Alert updated successfully",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbar.AlertsDetails.uploadTemplate": {
+    "value": "Template successfully uploaded.",
+    "comment": "Snack message in Alerts Details"
+  },
+  "Snackbar.ChangePassword.changePassword": {
+    "value": "Your password was successfully changed.",
+    "comment": "Snack message in Change Password"
+  },
+  "Snackbar.ChangePassword.editDeliveryChannel": {
+    "value": "The delivery channel was successfully updated.",
+    "comment": "Snack message in Channels Details"
+  },
+  "Snackbar.Config.editPingSettings": {
+    "value": "Settings have been successfully updated.",
+    "comment": "Snack message in Config"
+  },
+  "Snackbar.ChannelsDetails.testConnection": {
+    "value": "The email connection was successful.",
+    "comment": "Snack message in Channels Details"
+  },
+  "Snackbar.Devices.disabled": {
+    "value": "The device has been enabled",
+    "comment": "Snack message in Devices."
+  },
+  "Snackbar.Devices.enabled": {
+    "value": "The device has been disabled",
+    "comment": "Snack message in Devices."
+  },
+  "Snackbar.Devices.removeDevice": {
+    "value": "The device has been removed.",
+    "comment": "Snack message in Devices."
+  },
+  "Snackbar.Inbox.showMore": {
+    "value": "Showing {0} more",
+    "comment": "Snack message to show more alerts have been loaded. {0} indicates the amount."
+  },
+  "Snackbar.License.clearFiles": {
+    "value": "The certificate has been removed.",
+    "comment": "Snack message in Licenses"
+  },
+  "Snackbar.License.editLicense": {
+    "value": "License has been successfully updated.",
+    "comment": "Snack message in Licenses"
+  },
+  "Snackbar.License.uploadLicense": {
+    "value": "License has been successfully uploaded.",
+    "comment": "Snack message in Licenses"
+  },
+  "Snackbar.Login.sentEmailToGeneratePassword": {
+    "value": "Sent email to generate password",
+    "comment": "Snack message in Login"
+  },
+  "Snackbar.Login.AppsSyncError": {
+    "value": "Could not fetch list of apps from Qlik Sense",
+    "comment": "Message if there is an error on login when trying to get the list of apps for a user"
+  },
+  "Snackbar.Register.adminDataUpdated": {
+    "value": "Admin data updated",
+    "comment": "Snack message in Register"
+  },
+  "Snackbar.Register.channelSuccessfullyCreated": {
+    "value": "Channel successfully created.",
+    "comment": "Snack message in Register"
+  },
+  "Snackbar.Register.editDataSource": {
+    "value": "The data source was successfully updated.",
+    "comment": "Snack message in Register"
+  },
+  "Snackbar.Register.editLicense": {
+    "value": "License has been successfully updated.",
+    "comment": "Snack message in Register"
+  },
+  "Snackbar.Register.editPingSettings": {
+    "value": "Settings have been successfully updated.",
+    "comment": "Snack message in Register"
+  },
+  "Snackbar.Register.registerSource": {
+    "value": "The connection with Qlik was successful.",
+    "comment": "Snack message in Register"
+  },
+  "Snackbar.Register.registerSourceTest": {
+    "value": "The test connection with Qlik was successful.",
+    "comment": "Snack message in Register"
+  },
+  "Snackbar.Register.syncQlikUsers": {
+    "value": "Users have been synchronised from Qlik Sense.",
+    "comment": "Snack message in Register"
+  },
+  "Snackbar.Register.uploadLicense": {
+    "value": "License has been successfully uploaded.",
+    "comment": "Snack message in Register"
+  },
+  "Snackbar.Register.uploadSourceCerts": {
+    "value": "Certificates successfully uploaded.",
+    "comment": "Snack message in Register"
+  },
+  "Snackbar.SourcesDetails.clearSource": {
+    "value": "The data source has been removed.",
+    "comment": "Snack message in Sources Details"
+  },
+  "Snackbar.SourcesDetails.editDataSource": {
+    "value": "The data source was successfully updated.",
+    "comment": "Snack message in Sources Details"
+  },
+  "Snackbar.SourcesDetails.testSource": {
+    "value": "The connection with Qlik was successful.",
+    "comment": "Snack message in Sources Details"
+  },
+  "Snackbar.SourcesDetails.uploadSourceCerts": {
+    "value": "Certificates successfully uploaded.",
+    "comment": "Snack message in Sources Details"
+  },
+  "Snackbar.Suggestions.acceptSuggestion": {
+    "value": "Shared successfully. You can now view this alert in the My Alerts area",
+    "comment": "Snack message in Suggestions."
+  },
+  "Snackbar.Suggestions.rejectSuggestion": {
+    "value": "The suggestion has been rejected.",
+    "comment": "Snack message in Suggestions."
+  },
+  "Snackbar.Suggestions.showMore": {
+    "value": "Showing {0} more records",
+    "comment": "Snack message in Suggestions. {0} to show data length."
+  },
+  "Snackbar.Users.deleteUsers": {
+    "value": "User(s) successfully deleted.",
+    "comment": "Snack message in Users."
+  },
+  "Snackbar.Users.deleteUsersWarning": {
+    "value": "User cannot delete himself.",
+    "comment": "Snack message in Users."
+  },
+  "Snackbar.Users.disabled": {
+    "value": "The user has been disabled",
+    "comment": "Snack message in Users."
+  },
+  "Snackbar.Users.enabled": {
+    "value": "The user has been enabled",
+    "comment": "Snack message in Users."
+  },
+  "Snackbar.Users.showMore": {
+    "value": "Showing {0} more records",
+    "comment": "Snack message in Users. {0} to show data length."
+  },
+  "Snackbar.Users.syncQlikUsers": {
+    "value": "Users have been synchronised from Qlik Sense.",
+    "comment": "Snack message in Users."
+  },
+  "Snackbar.Users.toggleUser": {
+    "value": "{0} The user has been",
+    "comment": "Snack message in Users. {0} indicates enabled or disabled"
+  },
+  "Snackbar.UsersDetails.editUsersDetails": {
+    "value": "The user has been successfully updated.",
+    "comment": "Snack message in Users Details."
+  },
+  "Snackbar.UsersGroups.deleteUsersGroups": {
+    "value": "User group has been deleted.",
+    "comment": "Snack message in Users Details."
+  },
+  "Snackbar.UsersGroupsDetails.limit1000": {
+    "value": "Groups can't have more than 1000 users",
+    "comment": "Snack message in Users Groups Details."
+  },
+  "Snackbar.UsersGroups.disabled": {
+    "value": "User group has been disabled",
+    "comment": "Snack message in Users Details."
+  },
+  "Snackbar.UsersGroups.enabled": {
+    "value": "User group has been enabled",
+    "comment": "Snack message in Users Details."
+  },
+  "Snackbar.UsersGroups.showMore": {
+    "value": "Showing {0} more records",
+    "comment": "Snack message in Users Details. {0} to show data length."
+  },
+  "Snackbar.UsersGroupsDetails.editUsersGroupsDetails": {
+    "value": "User group has been successfully updated.",
+    "comment": "Snack message in Users Groups Details."
+  },
+  "Snackbar.UsersGroupsDetails.ErrorNameRequired": {
+    "value": "Name is required"
+  },
+  "Snackbar.UsersLicensesDetails.editUsersLicensesDetails": {
+    "value": "User license allocation have been successfully updated.",
+    "comment": "Snack message in Users Licenses Details."
+  },
+  "Snackbar.UsersPrivilegesDetails.editUsersPrivilegesDetails": {
+    "value": "User privileges have been successfully updated.",
+    "comment": "Snack message in Users Privileges Details."
+  },
+  "Sources.Label.DataSourceHost": {
+    "value": "Qlik Sense hostname",
+    "comment": "Table column header in sources page"
+  },
+  "Sources.Label.Source": {
+    "value": "Source",
+    "comment": "Table column header in sources page"
+  },
+  "SourcesDetails.Button.SelectCertificates": {
+    "value": "Select certificates",
+    "comment": "Button text in sources details"
+  },
+  "SourcesDetails.Label.AliasHostName": {
+    "value": "Alias hostname",
+    "comment": "Label in sources details"
+  },
+  "SourcesDetails.HelperText.AliasHostName": {
+    "value": "URL for users to access Qlik Sense",
+    "comment": "Label in sources details"
+  },
+  "SourcesDetails.HelperText.HostName": {
+    "value": "e.g. qlikserver.domain.com or 123.123.123.123",
+    "comment": "Example of a hostname"
+  },
+  "SourcesDetails.HelperText.HttpsPort": {
+    "value": "Default port 443",
+    "comment": "Example of a https port"
+  },
+  "SourcesDetails.HelperText.QpsPort": {
+    "value": "Default port 4243",
+    "comment": "Default port value for qpsPort"
+  },
+  "SourcesDetails.HelperText.QrsPort": {
+    "value": "Default port 4242",
+    "comment": "Default port value for qrsPort"
+  },
+  "SourcesDetails.HelperText.SessionCookieName": {
+    "value": "(optional)",
+    "comment": "Optional value for seccion cookie name"
+  },
+  "SourcesDetails.HelperText.VirtualProxy": {
+    "value": "(optional)",
+    "comment": "Optional label for virtual proxy"
+  },
+  "SourcesDetails.Label.ConnectAsUsername": {
+    "value": "Connect as user id",
+    "comment": "Label in sources details"
+  },
+  "SourcesDetails.Label.HostName": {
+    "value": "Qlik Sense hostname",
+    "comment": "Label in sources details"
+  },
+  "SourcesDetails.Label.ListenPort": {
+    "value": "Qlik Sense Service listen port HTTPS",
+    "comment": "Label in sources details"
+  },
+  "SourcesDetails.Label.RepoServiceApiListenPort": {
+    "value": "Qlik Repository API listen port",
+    "comment": "Label in sources details"
+  },
+  "SourcesDetails.Label.RestApiListenPort": {
+    "value": "Qlik REST API listen port",
+    "comment": "Label in sources details"
+  },
+  "SourcesDetails.Label.SessionCookieHeaderName": {
+    "value": "Session cookie header name",
+    "comment": "Label in sources details"
+  },
+  "SourcesDetails.Label.UserDirectory": {
+    "value": "Connect as user directory",
+    "comment": "Label in sources details"
+  },
+  "SourcesDetails.Label.VirtualProxyPrefix": {
+    "value": "Virtual proxy prefix",
+    "comment": "Label in sources details"
+  },
+  "SourcesDetails.Modal.CancelContent": {
+    "value": "You are about to leave this page and lose any unsaved changes. Are you sure?",
+    "comment": "Text to check if user wants to leave the page"
+  },
+  "SourcesDetails.Tooltip.ClientFile": {
+    "value": "Client file",
+    "comment": "Button text in sources details"
+  },
+  "SourcesDetails.Tooltip.ClientKeyFile": {
+    "value": "Client key file",
+    "comment": "Button text in sources details"
+  },
+  "Suggestions.Button.ShowMore": {
+    "value": "Show more",
+    "comment": "Show more button text"
+  },
+  "Suggestions.Label.AlertNames": {
+    "value": "Alert names",
+    "comment": "Table column header in suggestions page"
+  },
+  "Suggestions.Label.SharedAt": {
+    "value": "Shared at",
+    "comment": "Table column header in suggestions page"
+  },
+  "Suggestions.Label.SharedBy": {
+    "value": "Shared by user",
+    "comment": "Table column header in suggestions page"
+  },
+  "Suggestions.Label.FullName": {
+    "value": "Shared by full name",
+    "comment": "Table column header in suggestions page"
+  },
+  "System.Checkbox.Aborted": {
+    "value": "Aborted",
+    "comment": "Checkbox text in System"
+  },
+  "System.Checkbox.Failed": {
+    "value": "Failed",
+    "comment": "Checkbox text in System"
+  },
+  "System.Checkbox.InProgress": {
+    "value": "In progress",
+    "comment": "Checkbox text in System"
+  },
+  "System.Checkbox.Success": {
+    "value": "Success",
+    "comment": "Checkbox text in System"
+  },
+  "System.Checkbox.SystemAborted": {
+    "value": "System aborted",
+    "comment": "Checkbox text in System"
+  },
+  "System.Label.ManualSelection": {
+    "value": "Select tasks manually",
+    "comment": "Radio Text in system alerts"
+  },
+  "System.Label.Operator": {
+    "value": "Operator",
+    "comment": "Label text in system task rule selection"
+  },
+  "System.Label.Operator.all": {
+    "value": "All",
+    "comment": ""
+  },
+  "System.Label.Operator.EndsWith": {
+    "value": "Ends with",
+    "comment": ""
+  },
+  "System.Label.Operator.Includes": {
+    "value": "Includes",
+    "comment": ""
+  },
+  "System.Label.Operator.StartsWith": {
+    "value": "Starts with",
+    "comment": ""
+  },
+  "System.Label.Rules": {
+    "value": "String",
+    "comment": "Text in system alerts task rule selector"
+  },
+  "System.Label.RuleSelection": {
+    "value": "Select tasks by rule",
+    "comment": "Radio Text in system alerts"
+  },
+  "System.Textfield.InProgressForSeconds": {
+    "value": "In progress for (seconds)",
+    "comment": "Textfield in System"
+  },
+  "Unsubscribe.String.SuccessfullyUnsubscribed": {
+    "value": "Successfully unsubscribed",
+    "comment": "Text in Unsubscribe landing page"
+  },
+  "Unsubscribe.String.ClosePage": {
+    "value": "You can now close this page.",
+    "comment": "Text in Unsubscribe landing page"
+  },
+  "Uploader.Label.ClearFiles": {
+    "value": "Clear file(s)",
+    "comment": "Button text in Uploader"
+  },
+  "Uploader.Label.Files": {
+    "value": "files",
+    "comment": "Button text in Uploader"
+  },
+  "Uploader.Label.Inserted": {
+    "value": "Inserted {0}",
+    "comment": "Label text in Uploader"
+  },
+  "Uploader.Label.IsRequired": {
+    "value": "{0} is required",
+    "comment": "Label text in Uploader"
+  },
+  "Uploader.Label.UploadFiles": {
+    "value": "Upload file(s)",
+    "comment": "Tooltip text in Uploader"
+  },
+  "UserManagement.MenuItem.LicenseAllocation": {
+    "value": "License allocation",
+    "comment": "Menu item in User Management"
+  },
+  "UserManagement.MenuItem.UserPrivileges": {
+    "value": "User privileges",
+    "comment": "Menu item in User Management"
+  },
+  "UserManagement.MenuItem.UserGroups": {
+    "value": "User groups",
+    "comment": "Menu item in User Management"
+  },
+  "UserManagement.MenuItem.Users": {
+    "value": "Users",
+    "comment": "Menu item in User Management"
+  },
+  "UserMenu.MenuItem.About": {
+    "value": "About",
+    "comment": "Menu item in User Menu"
+  },
+  "UserMenu.MenuItem.Devices": {
+    "value": "Devices",
+    "comment": "Menu item in User Menu"
+  },
+  "UserMenu.MenuItem.Logout": {
+    "value": "Logout",
+    "comment": "Menu item in User Menu"
+  },
+  "UserMenu.MenuItem.Suggestions": {
+    "value": "Suggestions",
+    "comment": "Menu item in User Menu"
+  },
+  "UserMenu.MenuItem.UserProfile": {
+    "value": "User profile",
+    "comment": "Menu item in User Menu"
+  },
+  "UserProfile.Name": {
+    "value": "Name",
+    "comment": "Name section in User Profile"
+  },
+  "UserProfile.UserName": {
+    "value": "User name",
+    "comment": "User Name section in User Profile"
+  },
+  "UserProfile.Role": {
+    "value": "Role",
+    "comment": "Role section in User Profile"
+  },
+  "UserProfile.LicenseType": {
+    "value": "License type",
+    "comment": "License Type section in User Profile"
+  },
+  "UserProfile.Modal.UserProfile": {
+    "value": "User profile",
+    "comment": "Modal header text in User Profile"
+  },
+  "Users.Button.SyncWithQlik": {
+    "value": "Sync with Qlik",
+    "comment": "Button text in Users"
+  },
+  "Users.Button.Edit": {
+    "value": "Edit",
+    "comment": "Button text in Users"
+  },
+  "Users.DataHandler.Admin": {
+    "value": "Admin",
+    "comment": "Admin value for role"
+  },
+  "Users.DataHandler.User": {
+    "value": "User",
+    "comment": "User value for role"
+  },
+  "Users.Label.Domain": {
+    "value": "Domain",
+    "comment": "Header text in Users"
+  },
+  "Users.Label.Email": {
+    "value": "Email",
+    "comment": "Header text in Users"
+  },
+  "Users.Label.Enabled": {
+    "value": "Enabled",
+    "comment": "Header text in Users"
+  },
+  "Users.Label.FirstName": {
+    "value": "First name",
+    "comment": "Header text in Users"
+  },
+  "Users.Label.LastName": {
+    "value": "Last name",
+    "comment": "Header text in Users"
+  },
+  "Users.Label.License": {
+    "value": "License",
+    "comment": "Header text in Users"
+  },
+  "Users.Label.Role": {
+    "value": "Role",
+    "comment": "Header text in Users"
+  },
+  "Users.Label.UserName": {
+    "value": "User name",
+    "comment": "Header text in Users"
+  },
+  "Users.Modal.ContentDelete": {
+    "value": "Are you sure you want to delete?",
+    "comment": "Contents text in Users modal"
+  },
+  "Users.Modal.ContentImport": {
+    "value": "You are about to sync users with Qlik Sense. This background process may take a few minutes to complete.",
+    "comment": "Contents text in Users modal"
+  },
+  "Users.Modal.ImportUsers": {
+    "value": "Sync users with Qlik",
+    "comment": "Contents text in Users modal"
+  },
+  "UsersDetails.Label.Administrator": {
+    "value": "Administrator",
+    "comment": "Radio text in User Details"
+  },
+  "UsersDetails.Label.Domain": {
+    "value": "Domain",
+    "comment": "Label text in User Details"
+  },
+  "UsersDetails.Label.EmailId": {
+    "value": "Email ID *",
+    "comment": "Label text in User Details"
+  },
+  "UsersDetails.Label.FirstName": {
+    "value": "First name",
+    "comment": "Label text in User Details"
+  },
+  "UsersDetails.Label.LastName": {
+    "value": "Last name",
+    "comment": "Label text in User Details"
+  },
+  "UsersDetails.Label.User": {
+    "value": "User",
+    "comment": "Radio text in User Details"
+  },
+  "UsersDetails.Label.UserName": {
+    "value": "User name",
+    "comment": "Label text in User Details"
+  },
+  "UsersDetails.Modal.CancelContent": {
+    "value": "You are about to leave this page and lose any unsaved changes. Are you sure?",
+    "comment": "Warning to user that they are leaving Users Details page"
+  },
+  "UsersGroups.Button.ShowMore": {
+    "value": "Show More",
+    "comment": "Text for Show More button"
+  },
+  "UsersGroups.Button.AssignAll": {
+    "value": "Assign all",
+    "comment": "Label on assign all button on user groups details"
+  },
+  "UsersGroups.Button.UnAssignAll": {
+    "value": " Unassign all",
+    "comment": "Label on unassign all button on user groups details"
+  },
+  "UsersGroups.Label.GroupName": {
+    "value": "Group name",
+    "comment": "Label text in User Groups"
+  },
+  "UsersGroups.Label.Users": {
+    "value": "Users",
+    "comment": "Label text in User Groups"
+  },
+  "UsersGroups.Label.CreatedAt": {
+    "value": "Created",
+    "comment": "Label text in User Groups"
+  },
+  "UsersGroups.Label.Enabled": {
+    "value": "Enabled",
+    "comment": "Label text in User Groups"
+  },
+  "UsersGroups.Modal.AssignAll.Title": {
+    "value": "Are you sure you want to assign all the users?",
+    "comment": "Title in modal to assign all users to a specific permission"
+  },
+  "UsersGroups.Modal.AssignAll.Content": {
+    "value": "This will assign all your unassigned users to this permission. This may take a few seconds.",
+    "comment": "Content in modal to assign all users to a specific permission"
+  },
+  "UsersGroups.Modal.UnAssignAll.Title": {
+    "value": "Are you sure you want to unassign all the users?",
+    "comment": "Title in modal to unassign all users to a specific permission"
+  },
+  "UsersGroups.Modal.UnAssignAll.Content": {
+    "value": "This will unassign all your assigned users from this permission. This may take a few seconds.",
+    "comment": "Content in modal to unassign all users to a specific permission"
+  },
+  "UserGroupDetails.Label.GroupName": {
+    "value": "Group name",
+    "comment": "Label for group name input field"
+  },
+  "UsersGroupsDetails.Modal.CancelContent": {
+    "value": "You are about to leave this page and lose any unsaved changes. Are you sure?",
+    "comment": "Warning user is about to leave Users Groups edit page"
+  },
+  "UsersPrivilegesDetails.Button.AssignAll": {
+    "value": "Assign all",
+    "comment": "Label on assign all button on user privileges details"
+  },
+  "UsersPrivilegesDetails.Button.UnAssignAll": {
+    "value": " Unassign all",
+    "comment": "Label on unassign all button on user privileges details"
+  },
+  "UsersPrivilegesDetails.Modal.AssignAll.Title": {
+    "value": "Are you sure you want to assign all the users?",
+    "comment": "Title in modal to assign all users to a specific permission"
+  },
+  "UsersPrivilegesDetails.Modal.AssignAll.Content": {
+    "value": "This will assign all your unassigned users to this permission. This may take a few seconds.",
+    "comment": "Content in modal to assign all users to a specific permission"
+  },
+  "UsersPrivilegesDetails.Modal.CancelContent": {
+    "value": "You are about to leave this page and lose any unsaved changes. Are you sure?",
+    "comment": "Warning user is about to leave Users Privileges edit page"
+  },
+  "UsersPrivilegesDetails.Modal.UnAssignAll.Title": {
+    "value": "Are you sure you want to unassign all the users?",
+    "comment": "Title in modal to unassign all users to a specific permission"
+  },
+  "UsersPrivilegesDetails.Modal.UnAssignAll.Content": {
+    "value": "This will unassign all your assigned users from this permission. This may take a few seconds.",
+    "comment": "Content in modal to unassign all users to a specific permission"
+  },
+  "UserProfile.TableCell.Administrator": {
+    "value": "Administrator",
+    "comment": "Admin role of the user as displayed in user profile"
+  },
+  "UserProfile.TableCell.None": {
+    "value": "None",
+    "comment": "Text to display when user has no license"
+  },
+  "UserProfile.TableCell.User": {
+    "value": "User",
+    "comment": "User role of the user as displayed in user profile"
+  },
+  "UserMenu.UserProfile": {
+    "value": "User profile",
+    "comment": "Label for the user profile link"
+  },
+  "UserMenu.UserDevices": {
+    "value": "User devices",
+    "comment": "Label for the user devices link"
+  },
+  "UserMenu.About": {
+    "value": "About",
+    "comment": "Label for the about link"
+  },
+  "UserMenu.Suggestions": {
+    "value": "Suggestions",
+    "comment": "Label for the suggestions link"
+  }
+}

@@ -1,0 +1,99 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<style>
+		{{ styleFile }}
+	</style>
+</head>
+<body style="margin:0; padding:0; background-color:white;">
+	<div style="background:#fff; background-color:#fff; Margin:0px auto; max-width:800px">
+		<h1>Hi, <strong>{{ UserName }}</strong></h1><br />
+		<div style="font-size:16px; line-height:1.5; color:#555;">
+			Your have <strong>{{dailyRecord.length}} alerts</strong> that have triggered and are set to be included in
+			your daily digest.
+		</div>
+		{{#dailyRecord}}
+	</div>
+	<div style="background:#fff; background-color:#fff; Margin:0px auto; max-width:800px;">
+		<table style="background:#fff; background-color:#fff; width:100%;">
+			<tbody>
+				<tr>
+					<td style="font-size:0px; padding:20px 0; padding-left:15px; padding-right:15px; padding-top:0px;">
+						<div style="background-color:#fff;">
+							<div style="background:#fff; background-color:#fff; Margin:0px auto;">
+								<table style="color: #0c0b0b;line-height: 3;table-layout:auto;width:100%;">
+									<tbody>
+										<tr style="font-size: 16px;">
+											<th colspan="6" ;>Nomde de l'Alerte : {{dailyDigestRecord.0.alertname}}
+												&nbsp;&nbsp;&nbsp;&nbsp; <a
+													href="{{ dailyDigestRecord.0.qliksenseurl.pinghostname}}/pingAlert/historyDetails/{{ dailyDigestRecord.0.objectid}}">Vu
+													détails</a></th>
+										</tr>
+										<tr
+											style="background-color:rgb(249,25,66);color: white;font-size: 11px; text-align: left">
+											<th>Timestamp</th>
+											<th>Actuel</th>
+											<th>Condition</th>
+											<th>Source Application</th>
+											<th>Nom de la mesure</th>
+										</tr>
+										{{#dailyDigestRecord}}
+										<tr style="font-size: 11px;">
+											<td style="padding-left:2px; padding-right:2px;">
+												{{triggerTime}}
+											</td>
+											<td style="padding-left:2px; padding-right:2px;">
+												{{CurrentValue}}
+											</td>
+											<td style="padding-left:2px; padding-right:2px;">
+												{{condition}}
+											</td>
+											<td style="padding-left:2px; padding-right:2px;">
+												{{ApplicationName}}
+											</td>
+											<td style="padding-left:2px; padding-right:2px;">
+												{{Measures}}
+											</td>
+										</tr>
+										{{/dailyDigestRecord}}
+									</tbody>
+								</table>
+								&nbsp;&nbsp;&nbsp;
+								{{/dailyRecord}}
+							</div>
+						</div>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+	<div style="background:#fff; background-color:#fff; Margin:0px auto; max-width:800px;">
+        <table style="background:#fff; background-color:#fff; width:100%;">
+            <tbody>
+                <tr>
+                    <td style="font-size:0px; padding:20px 0; padding-left:15px; padding-right:15px; padding-top:0px;">
+
+
+                        <div class="mj-column-per-100 outlook-group-fix" style="font-size:13px; display:inline-block; width:100%;">
+                                <table style="width:100%">
+                                    <tr>
+                                        <td style="font-size:0px; padding:10px 25px; padding-top:20px;">
+                                            <div style="font-size:14px; line-height:1; text-align:center; color:#555;">
+                                                <a href={{email.pinghostname}}>Déconnexion</a> de Qlik Alerting pour modifier vos paramètres d'alerte.
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                        </div>							
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+								
+	
+</body>
+</html>

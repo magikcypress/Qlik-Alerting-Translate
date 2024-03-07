@@ -1,0 +1,16 @@
+{
+    "assignedLicense": "Qlik Alerting: Vous avez une licence s'assignée.",
+    "broadcast": "{{{notificationSubject}}}",
+    "broadcastCreate": "Notification Crée  - {{{alertName}}}",
+    "data": "{{{conditions}}}! {{{measures.0}}}: {{{values.0.0}}}",
+    "dataCreate": "Data Alert Créee - {{{alertName}}}",
+    "digest": "Qlik Alerting: Dossier quotidien",
+    "dimension": "{{{nRows}}} {{{dimensions.0}}} rencontrer {{{conditions}}}",
+    "dimensionCreate": "Data Alert Créee - {{{alertName}}}",
+    "forgotPassword": "Qlik Alerting: R2cupération du mot de passe",
+    "scanError": "ATTENTION: Problème avec votre alerte - {{{alertName}}}",
+    "share": "Qlik Alerting: Une alerte a été partagée avec vous",
+    "system": "ALERT: {{{taskName}}} {{{executionStatus}}}!",
+    "systemCreate": "Alerte système créée - {{{alertName}}}",
+    "test": "Qlik Alerting: Test Courriel"
+}

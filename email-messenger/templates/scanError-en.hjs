@@ -1,0 +1,286 @@
+<!DOCTYPE HTML>
+<html lang="en">
+
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <style type="text/css">
+        #outlook a {
+            padding: 0;
+        }
+
+        .ReadMsgBody {
+            width: 100%;
+        }
+
+        .ExternalClass {
+            width: 100%;
+        }
+
+        .ExternalClass * {
+            line-height: 100%;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            -webkit-text-size-adjust: 100%;
+            -ms-text-size-adjust: 100%;
+            font-family: Tahoma, Ubuntu, Helvetica, Arial, sans-serif;
+        }
+
+        div {
+            direction: ltr;
+            text-align: left;
+            vertical-align: top;
+            font-family: Tahoma, Ubuntu, Helvetica, Arial, sans-serif;
+        }
+
+        table,
+        th,
+        td {
+            direction: ltr;
+            text-align: left;
+            border-collapse: collapse;
+            mso-table-lspace: 0pt;
+            mso-table-rspace: 0pt;
+            word-break: break-word;
+            vertical-align: top;
+        }
+
+        table {
+            align: center;
+            border: 0;
+            cellpadding: 0;
+            cellspacing: 0;
+            role: presentation;
+        }
+
+        p {
+            display: block;
+            margin: 13px 0;
+        }
+
+        small {
+            font-size: 10px;
+        }
+
+        @media only screen and (min-width:480px) {
+            .mj-column-per-100 {
+                width: 100% !important;
+                max-width: 100%;
+            }
+        }
+
+        @media only screen and (max-width:480px) {
+            table.full-width-mobile {
+                width: 100% !important;
+            }
+
+            td.full-width-mobile {
+                width: auto !important;
+            }
+        }
+    </style>
+    <style type="text/css">
+        @media only screen and (max-width:480px) {
+            @-ms-viewport {
+                width: 320px;
+            }
+
+            @viewport {
+                width: 320px;
+            }
+        }
+    </style>
+
+</head>
+
+<body style="margin:0; padding:0; background-color:white;">
+    <div style="padding-top:40px;background-color:#fff;">
+
+        <!--[if mso | IE]>
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600">
+				<tr>
+					<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+		<![endif]-->
+
+
+        <div style="background:#fff; background-color:#fff; Margin:0px auto; max-width:600px;">
+            <table style="background:#fff; background-color:#fff; width:100%;">
+                <tbody>
+                    <tr>
+                        <td
+                            style="font-size:0px; padding:20px 0; padding-left:15px; padding-right:15px; padding-top:0px;">
+
+                            <!--[if mso | IE]>
+								<table role="presentation" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="" style="vertical-align:top;width:600px;">
+							<![endif]-->
+
+                            <div
+                                style="display:inline-block; background:#fff; background-color:#fff;  max-width:600px;">
+                                <table style="background:#fff; background-color:#fff; width:100%;">
+                                    <tbody>
+                                        <tr>
+                                            <td style="padding:10px 10px; font-size:0px; ">
+                                                <div style="font-size:16px; line-height:1.5; color:#555;">
+                                                    <p>Hi <strong>{{UserName}}</strong>,</p>
+                                                    <p>Your alert, <strong>{{alertname}}</strong>, has not triggered as
+                                                        an
+                                                        error occurred during the scanning process.</p>
+                                                    <p>There may be an issue in
+                                                        the setup of the alert which may relate to a change in a Qlik
+                                                        Sense<sup>&reg;</sup>
+                                                        Application or a change in your access to Qlik Sense<sup>&reg;</sup>.</p>
+                                                    <p>Please see the table below for a summary of the issues
+                                                        identified.
+                                                    </p>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+
+                            <!--[if mso | IE]>
+										</td>
+									</tr>
+								</table>
+							<![endif]-->
+
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!--[if mso | IE]>
+					</td>
+				</tr>
+			</table>
+		  
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600">
+				<tr>
+					<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+		<![endif]-->
+
+        <div style="background:#fff; background-color:#fff; Margin:0px auto; max-width:600px;">
+            <table style="background:#fff; background-color:#fff; width:100%;">
+                <tbody>
+                    <tr>
+                        <td
+                            style="font-size:0px; padding:20px 0; padding-left:15px; padding-right:15px; padding-top:0px;">
+
+                            <!--[if mso | IE]>
+								<table role="presentation" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="" style="vertical-align:top;width:600px;">
+							<![endif]-->
+
+                            <div class="mj-column-per-100 outlook-group-fix"
+                                style="font-size:13px; display:inline-block; width:100%;">
+                                <table style="border:1px solid #dfdfdf; width:100%">
+                                    <tr>
+                                        <td
+                                            style="background:#fff; font-size:0px; padding:10px 25px; padding-top:15px; padding-right:10px; padding-bottom:15px; padding-left:10px;">
+                                            <table
+                                                style="color:#494848; font-size:15px; line-height:1.8; table-layout:auto; width:100%;">
+                                                <tr style="background-color: #F1F1F1">
+                                                    <td
+                                                        style="padding-top:5px; padding-bottom:5px; padding-left:10px; padding-right:10px;">
+                                                        <strong>Issues Identified</strong>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <table
+                                                        style="color:#494848; font-size:13px; line-height:1.8; table-layout:auto;width:100%;">
+                                                        {{#issueDescriptionField}}
+                                                        <tr style="border-bottom:1px solid #dfdfdf;">
+                                                            <td
+                                                                style="padding-top:2px; padding-bottom:2px; padding-left:10px; padding-right:10px;">
+                                                                {{discription}}</td>
+                                                        </tr>
+                                                        {{/issueDescriptionField}}
+                                                    </table>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+
+                            <!--[if mso | IE]>
+										</td>
+									</tr>
+								</table>
+							<![endif]-->
+
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+
+        <!--[if mso | IE]>
+					</td>
+				</tr>
+			</table>
+		  
+			<table align="center" border="0" cellpadding="0" cellspacing="0" class="" style="width:600px;" width="600">
+				<tr>
+					<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;">
+		<![endif]-->
+        <div style="background:#fff; background-color:#fff; Margin:0px auto; max-width:600px;">
+            <table style="background:#fff; background-color:#fff; width:100%;">
+                <tbody>
+                    <tr>
+                        <td
+                            style="font-size:0px; padding:20px 0; padding-left:15px; padding-right:15px; padding-top:0px;">
+
+                            <!--[if mso | IE]>
+								<table role="presentation" border="0" cellpadding="0" cellspacing="0">
+									<tr>
+										<td class="" style="vertical-align:top;width:600px;">
+							<![endif]-->
+
+                            <div style="font-size:13px; display:inline-block; width:100%;">
+                                <table style="width:100%">
+                                    <tr>
+                                        <td style="font-size:0px; padding:10px 25px; padding-top:20px;">
+                                            <div style="font-size:14px; line-height:1; text-align:center; color:#555;">
+                                                <a href={{qlikAlertingLink}}>Login</a> to Qlik
+                                                Alerting&trade; to edit this
+                                                alert.
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </div>
+
+                            <!--[if mso | IE]>
+										</td>
+									</tr>
+								</table>
+							<![endif]-->
+
+                        </td>
+                    </tr>
+
+                </tbody>
+            </table>
+        </div>
+
+        <!--[if mso | IE]>
+					</td>
+				</tr>
+			</table>
+		<![endif]-->
+    </div>
+
+</body>
+
+</html>
